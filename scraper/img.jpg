@@ -1,0 +1,3259 @@
+<!DOCTYPE html>
+<html lang="rus">
+<head>
+	<script>
+        var default_shop_path = "https://spb.winestyle.ru";
+        var secure_remote_path = "";
+		if (sessionStorage.getItem('nomobile') === 'true') {
+			var docElement = document.documentElement;
+			docElement.className = docElement.className + " mobile-fullsize";
+			document.write('<meta name="viewport" content="width=1280">');
+		}
+		else {
+			document.write('<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">');
+		};
+
+		function toggleMobileFullSite() {
+			var curr = (sessionStorage.getItem('nomobile') === 'true');
+			sessionStorage.setItem('nomobile', !curr);
+			location.reload();
+		};
+	</script>
+	
+					<!-- Yandex.Metrika counter -->
+					<script type="text/javascript">
+
+					setTimeout(function(){
+						(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+					   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+					   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+					   ym(58295641, "init", {
+					        clickmap:true,
+					        trackLinks:true,
+					        accurateTrackBounce:true,
+					        webvisor:true,
+					        ecommerce:"dataLayer"
+					   });
+
+					}, 2500);
+					</script>						
+					<!-- /Yandex.Metrika counter -->
+				
+	
+
+<title>Пиво "Lindemans" Gueuze — купить в магазине Winestyle.ru Санкт-Петербург</title>
+<meta name="description" content="🍷 Продажа пива Lindemans Gueuze, 250 мл (Линдеманс Гёз, 0.25 л) в магазине WineStyle в Санкт-Петербурге! Производство: Бельгия. ☎ +7 (812) 627-13-15." />
+
+<meta http-equiv="Content-Type" Content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" Content="ru" />
+<link rel="preconnect" href="https://s.wine.style" />
+
+
+
+	
+	
+	<style type="text/css" class="critical">.main-wrapper,.sticky-footer{opacity:0}@media (min-width:768px) and (max-width:991px){.touch .user-container .has-dropdown .link-dropdown:after{content:"\e902";display:inline-block;vertical-align:middle;margin-left:10px}.touch .basket-block .link-dropdown:after{position:absolute;top:20px;right:-2px}.touch .basket-block{border-left:none;position:static}.touch .basket-block .dropdown{display:block;width:100%;border-top-color:#fff;background:#fff;left:-9999px;opacity:0}}.popup-permission .button-yellow{background:#ffdc2e!important;border-bottom:2px solid #e9c71f!important}@media (max-width:991px){.popup-permission{background:rgba(0,0,0,.7)}}.menu-catalog-block-icon .link-permanent a{color:#ffdc2e!important;font-weight:600}@media (max-width:1480px){.iconed-attention{display:inline-block!important}.header-left .small-left{display:none!important}}.header-middle .logo-container a{position:static!important;display:block;padding:0 10px 0 20px;text-align:left}.header-clients.small.tabletlg-only.has-hover,.menu-sublevel span.ll_link{font-family:"ProximaNova-Regular",sans-serif!important}.menu-sublevel>li>span.ll_link{display:block;padding:4px 10px!important;text-align:left;letter-spacing:.025em}.menu-sublevel span.ll_link{color:#464445!important}.has-dropdown-support .link-dropdown::before{display:inline-block;vertical-align:-3px;margin-top:-9px;border:1px solid #e8e8e8;content:"\e976";font-size:16px;padding:7px 7px 7px 8px;color:#0e8423!important;border-radius:8px 8px 8px 8px;-moz-border-radius:8px 8px 8px 8px;-webkit-border-radius:8px 8px 8px 8px;font-family:'icomoon'!important;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.has-dropdown-support .support{padding:17px 15px 14px;font-size:13px;display:block}.has-dropdown-address .link-dropdown{padding:16px 15px 12px 13px!important}@media (min-width:1280px){.has-dropdown-address .link-dropdown{padding-top:20px!important}.has-dropdown-address .link-dropdown::before{vertical-align:0!important;line-height:1px!important}.header-top .city-wrapper .has-hover{margin-top:-1px!important}}@media (min-width:987px){.city-wrapper{padding-top:1px!important}.has-dropdown-address span.hide-tablet{top:-4px!important}}@media (min-width:1068px) and (max-width:1111px){.header-top .small.obrezka{overflow:hidden!important;text-overflow:ellipsis!important;white-space:nowrap!important;max-width:220px!important}}.city-wrapper .icon-city:before{content:"\e974";font-family:'icomoon'!important;font-size:17px;vertical-align:-4px;line-height:1px;color:#464744}.city-wrapper .link-hover .city{margin-left:5px!important}.sublevel[data-header-sublevel=menu-sublevel-delicatessen] .sublevel-left-menu{min-height:376px!important}.header-right-block{height:51px!important}@-moz-document url-prefix(){.link-language{padding-top:18px!important;padding-bottom:13px!important}@media (min-width:1280px){.has-dropdown-address .link-dropdown{padding-top:19px!important}}}@media (min-width:768px){.link-language span{vertical-align:text-bottom!important}}@-moz-document url-prefix(){@media (min-width:768px){.link-language span{vertical-align:unset!important}}.has-dropdown-address span.hide-tablet{top:-3px!important}}@media (max-width:1480px){@-moz-document url-prefix(){.header-top .small.iconed-attention{padding-top:17px!important;padding-bottom:17px!important}.header-right-block .link-language,.header-right-block .small.tabletlg-only{top:-1px!important;position:relative!important}}}@media (min-width:1481px){.has-dropdown-address span.hide-tablet{top:-4px!important}.city-wrapper .link-hover .city{top:-1px!important}.link-language span{vertical-align:baseline!important}@media screen and (-webkit-min-device-pixel-ratio:0){.city-wrapper .link-hover .city{top:0!important}}@-moz-document url-prefix(){.has-dropdown-address span.hide-tablet{top:-3px!important}.city-wrapper .link-hover .city{padding-top:1px}}}@media (min-width:768px) and (max-width:1279px){.city-wrapper .icon-city:before{vertical-align:-3px!important}.city-wrapper .link-hover .city{top:-1px!important}.has-dropdown-address .link-dropdown{padding-top:15px!important;padding-bottom:13px!important}.has-dropdown-address .link-dropdown:before{vertical-align:-4px!important}@media screen and (-webkit-min-device-pixel-ratio:0){.has-dropdown-address .link-dropdown:before{vertical-align:-5px!important}.link-language span{vertical-align:baseline!important}}@-moz-document url-prefix(){.city-wrapper .icon-city:before{vertical-align:-4px!important}.has-dropdown-address .link-dropdown{padding-top:14px!important;padding-bottom:14px!important}.has-dropdown-address .link-dropdown:before{vertical-align:-3px!important}.link-language span{vertical-align:text-bottom!important}}}@media (min-width:768px) and (max-width:991px){.has-dropdown:not(.menu-catalog-block) .link-dropdown:after{position:absolute!important;top:20px!important;right:-2px!important}@media screen and (-webkit-min-device-pixel-ratio:0){.has-dropdown-address .link-dropdown{padding-top:14px!important;padding-bottom:14px!important}.link-language span{vertical-align:-1px!important}}@-moz-document url-prefix(){.user-container .user-block{top:-51px!important}.city-wrapper .link-hover .city{top:0!important}.link-language span{vertical-align:baseline!important}}}@media (min-width:1280px){@media screen and (-webkit-min-device-pixel-ratio:0){.has-dropdown-support .support{padding:16px 15px!important}}}@media (min-width:768px) and (max-width:1279px){.has-dropdown-support .link-dropdown::before{vertical-align:-3px!important}@-moz-document url-prefix(){.link-hover .hide-desktop{top:-1px!important;position:relative}.header-right-block .link-language{top:0!important;position:relative!important}}}@media (min-width:992px){@-moz-document url-prefix(){.link-hover .hide-desktop{top:0!important}.has-dropdown-support .support{padding:14px 15px 17px!important}.header-right-block .link-language{top:-1px!important;position:relative!important}.has-dropdown-address .link-dropdown{padding-top:12px!important;padding-bottom:16px!important}.city-wrapper .link-hover .city{top:-2px!important}.city-wrapper .icon-city::before{vertical-align:-1px!important}}}@media (min-width:1280px){@-moz-document url-prefix(){.has-dropdown-address .link-dropdown{padding-top:17px!important;padding-bottom:9px!important}}}@media (min-width:1481px){@-moz-document url-prefix(){.city-wrapper .link-hover .city{top:0!important}.city-wrapper .icon-city::before{vertical-align:-3px!important}.header-right-block .link-language{top:0!important;position:relative!important}.has-dropdown-address .link-dropdown{padding-top:19px!important;padding-bottom:12px!important}.link-hover .hide-tablet{top:2px!important;position:relative!important}}}@media (min-width:768px) and (max-width:991px){.has-dropdown-user .link-dropdown:before{vertical-align:-5px!important}@-moz-document url-prefix(){.has-dropdown-user .link-dropdown:before{vertical-align:-4px!important}}@media screen and (-webkit-min-device-pixel-ratio:0){.has-dropdown-support .link-dropdown::before{vertical-align:0!important}.has-dropdown-support .link-dropdown{padding:15px 15px 16px!important}}}@font-face{font-family:'pfsquaresanspro-Bold';src:url(https://s.wine.style/templates/default/StylesNew/fonts/pfsquaresanspro/pfsquaresanspro-Bold/pfsquaresanspro-Bold.eot);src:url(https://s.wine.style/templates/default/StylesNew/fonts/pfsquaresanspro/pfsquaresanspro-Bold/pfsquaresanspro-Bold.eot?#iefix) format("embedded-opentype"),url(https://s.wine.style/templates/default/StylesNew/fonts/pfsquaresanspro/pfsquaresanspro-Bold/pfsquaresanspro-Bold.woff) format("woff"),url(https://s.wine.style/templates/default/StylesNew/fonts/pfsquaresanspro/pfsquaresanspro-Bold/pfsquaresanspro-Bold.ttf) format("truetype");font-weight:400;font-style:normal}@font-face{font-family:'pfsquaresanspro-Regular';src:url(https://s.wine.style/templates/default/StylesNew/fonts/pfsquaresanspro/pfsquaresanspro-Regular/pfsquaresanspro-Regular.eot);src:url(https://s.wine.style/templates/default/StylesNew/fonts/pfsquaresanspro/pfsquaresanspro-Regular/pfsquaresanspro-Regular.eot?#iefix) format("embedded-opentype"),url(https://s.wine.style/templates/default/StylesNew/fonts/pfsquaresanspro/pfsquaresanspro-Regular/pfsquaresanspro-Regular.woff) format("woff"),url(https://s.wine.style/templates/default/StylesNew/fonts/pfsquaresanspro/pfsquaresanspro-Regular/pfsquaresanspro-Regular.ttf) format("truetype");font-weight:400;font-style:normal}@font-face{font-family:'pfsquaresanspro-Medium';src:url(https://s.wine.style/templates/default/StylesNew/fonts/pfsquaresanspro/pfsquaresanspro-Medium/pfsquaresanspro-Medium.eot);src:url(https://s.wine.style/templates/default/StylesNew/fonts/pfsquaresanspro/pfsquaresanspro-Medium/pfsquaresanspro-Medium.eot?#iefix) format("embedded-opentype"),url(https://s.wine.style/templates/default/StylesNew/fonts/pfsquaresanspro/pfsquaresanspro-Medium/pfsquaresanspro-Medium.woff) format("woff"),url(https://s.wine.style/templates/default/StylesNew/fonts/pfsquaresanspro/pfsquaresanspro-Medium/pfsquaresanspro-Medium.ttf) format("truetype");font-weight:400;font-style:normal}@font-face{font-family:'ProximaNova-Regular';src:url(https://s.wine.style/templates/default/StylesNew/fonts/ProximaNova/ProximaNova-Regular/ProximaNova-Regular.eot);src:url(https://s.wine.style/templates/default/StylesNew/fonts/ProximaNova/ProximaNova-Regular/ProximaNova-Regular.eot?#iefix) format("embedded-opentype"),url(https://s.wine.style/templates/default/StylesNew/fonts/ProximaNova/ProximaNova-Regular/ProximaNova-Regular.woff) format("woff"),url(https://s.wine.style/templates/default/StylesNew/fonts/ProximaNova/ProximaNova-Regular/ProximaNova-Regular.ttf) format("truetype");font-weight:400;font-style:normal}.basket-icon:before,.has-dropdown .link-dropdown:after,.has-sublevel .sublevel .sublevel-back:before,.info-banner .icon-close,.menu-sublevel-down a:before,.search-container .icon,.subheader .subheader-item-iconed .icon:before{font-family:'icomoon'!important;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1}.has-dropdown-favourites .link-dropdown .icon:before,.has-dropdown-user .link-dropdown:before,.header-mobile .has-dropdown-address .link-dropdown:before,.header-mobile .has-dropdown-phone .link-dropdown:before,.search-container button:before{font-family:'icomoon'!important;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none}.has-dropdown-address .link-dropdown:before{line-height:1}.has-dropdown-address .link-dropdown:before,.menu-catalog-block-mob .menu-open:before{font-family:'icomoon'!important;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none}*,:after,:before{box-sizing:border-box}html{height:100%;-ms-text-size-adjust:100%}body{background:#fff;margin:0;line-height:1.4;font-size:14px;letter-spacing:.025em;font-family:"ProximaNova-Regular",sans-serif;color:#464445;font-smoothing:antialiased;overflow-y:auto}.body-wrapper{overflow:hidden}.touch body.is-blocked{position:fixed;width:100%}ul{margin:0;padding:0;list-style-type:none}h3{font-size:20px}p{margin:0 0 10px}a,a img{outline:none}a{color:#002855;text-decoration:none}a img{border:0}header,nav{display:block}img{max-width:100%;-ms-interpolation-mode:bicubic;border:0}.touch .outer-click-body.is-active{position:fixed;top:50px;left:0;bottom:0;right:0;z-index:10}.container{width:100%;max-width:1500px}.container:after,.container:before{content:" ";display:table}.container:after{clear:both}.container-fluid{margin-right:auto;margin-left:auto}@media (min-width:768px){.mobile-only{display:none!important}}@media (min-width:1280px){.container{width:100%}}@media (max-width:767px){.mobile-only{display:block!important}.mobile-hidden{display:none!important}}@media (max-width:991px){.tabletlg-only{display:none!important}}.clearfix:after,.clearfix:before{content:" ";display:table}.clearfix:after{clear:both}.col-bordo{color:#df6760}@media (min-width:768px){.mobile-hidden{display:block!important}.mobile-hidden.di-b{display:inline-block!important}}@media (min-width:0px) and (max-width:767px){.mobile-hidden{display:none!important}.mobile-only{display:block!important}.mobile-only.di-b{display:inline-block!important}}button{background:0 0;border:none;border-radius:0;outline:none;color:#002855}.button{display:inline-block;vertical-align:middle;padding:10px 30px 9px;-ms-border-radius:3px;-o-border-radius:3px;border-radius:3px;text-decoration:none;text-align:center;font-family:"pfsquaresanspro-Bold",sans-serif;font-size:16px}@media (min-width:0px) and (max-width:767px){.button{padding:10px 30px 8px}}.button-yellow{background:#ffdc2e;border-bottom:2px solid #e9c71f;color:#464445;letter-spacing:.005em}.button-bordered-gray{padding:8px 20px;border:1px solid #002855}.button-lg{padding:15px 40px 14px;font-size:24px}@media (max-width:991px){.button-lg{padding:20px 30px 18px;font-size:20px}}input[type=search]{width:100%;height:30px;background:0 0;border:1px solid #b2b2b2;-ms-border-radius:3px;-o-border-radius:3px;border-radius:3px;padding:0 8px;line-height:1em;color:#464445;font-family:"ProximaNova-Regular",sans-serif;font-smoothing:antialiased;font-size:12px}.warning-content{position:absolute;top:100%;left:100%;width:300px;padding:10px;background:#fff;border:2px solid #1d375a;font-size:16px;color:#1d375a;z-index:8015;opacity:0;visibility:hidden}.warning-header{position:absolute;top:0;left:20px}.warning-header span{display:block;font-size:12px;padding:0 5px;font-style:italic}@media (max-width:991px){.warning-header{display:none}}.has-dropdown{position:relative;z-index:20}.has-dropdown .link-dropdown{display:block;z-index:20;font-size:14px}.has-dropdown:not(.menu-catalog-block) .link-dropdown:after{content:"\e902";display:inline-block;vertical-align:middle;margin-left:10px;margin-top:1px}.has-dropdown .dropdown{display:none;position:absolute;top:100%;left:0;z-index:999}@media (min-width:0px) and (max-width:767px){.header-desktop{display:none}}.header-top-container{position:relative;box-shadow:0 2px 2px 1px rgba(0,0,0,.05)}.header-top{padding-left:13px;letter-spacing:.025em;font-size:11px;position:relative}.header-top,.header-top a{color:#464445}.header-top .dropdown{background:#fff}.header-top .small{display:inline-block;vertical-align:baseline;padding:18px 7px 16px}.header-clients{font-family:"ProximaNova-Regular",sans-serif;position:relative;letter-spacing:.005em}.header-clients__title{border-bottom:1px dashed transparent;border-bottom-color:#595959}.header-clients .dropdown-clients{position:absolute;left:-56px;top:-9999px;width:260px;padding:5px 30px 0;box-shadow:0 0 30px rgba(2,2,2,.3);line-height:1.79;text-align:left;background:#fff;z-index:8000;opacity:0}.header-clients .dropdown-clients:after{content:'';position:absolute;top:-6px;left:50%;margin-left:-3px;border-bottom:6px solid #fff;border-left:6px solid transparent;border-right:6px solid transparent}.city-wrapper{font-size:13px;position:relative}@media (min-width:0px) and (max-width:767px){.city-wrapper{height:52px;line-height:58px;font-size:14px;box-sizing:border-box;border:1px solid #fff;overflow:visible!important}}@media (min-width:768px){.city-wrapper{float:right;height:50px;line-height:50px}}@media (min-width:0px) and (max-width:767px){.city-wrapper .link-hover{padding-left:16px}}@media (min-width:768px){.city-wrapper .link-hover{padding-left:20px;padding-right:20px}}@media (max-width:991px){.city-wrapper .link-hover{padding-right:43px}}.city-wrapper .link-hover .city{display:inline-block;vertical-align:top;position:relative}@media (min-width:0px) and (max-width:767px){.city-wrapper .link-hover .city{height:60px;line-height:58px;color:#1d375a;margin-left:5px}}@media (min-width:768px){.city-wrapper .link-hover .city{height:50px;line-height:50px}}.city-wrapper .link-hover .city:after,.city-wrapper .link-hover .city:before{position:absolute;top:-9px;width:14px;height:14px;background:#fdfde1;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg);left:50%;margin-left:-7px}.city-wrapper .link-hover .city:before{box-shadow:0 0 5px 0 rgba(2,2,2,.3)}.city-wrapper .link-hover .city:after{z-index:21}.city-wrapper .dropdown-city{line-height:normal;font-size:12px}.iconed-attention{position:relative;font-size:13px;padding-left:40px!important}.iconed-attention:before{content:"!";display:inline-block;position:absolute;top:13px;left:10px;width:22px;line-height:22px;margin-right:5px;-ms-border-radius:100%;-o-border-radius:100%;border-radius:100%;background:#df6760;text-align:center;color:#fff}@media (max-width:1480px){.iconed-attention{display:none!important}}.header-left{float:left}.link-language{display:inline-block;padding:17px 20px 14px}@media (min-width:768px){.link-language{padding-left:15px;padding-right:15px}.link-language span{padding:3px 5px;font-size:11px;border:1px solid #f2f2f2;color:#b2b2b2;-ms-border-radius:4px;-o-border-radius:4px;border-radius:4px}}@media (max-width:991px){.link-language{padding-top:16px;padding-right:28px;padding-left:20px}.link-language span{padding:8px}}.header-middle{width:100%;background:#fff}.header-middle .container{position:relative}@media (min-width:992px){.header-middle{z-index:5000}.header-middle .has-dropdown{z-index:5001}}.header-middle .bage{color:#fff!important}.header-middle .logo-container{float:left;width:260px;position:relative;z-index:5002;margin-top:15px}@media (min-width:1280px){.header-middle .logo-container{margin-top:40px}}.header-middle .logo-container img{width:100%;max-width:130px}@media (min-width:1280px){.header-middle .logo-container img{max-width:170px}}.header-middle .logo-container .warning{top:0;left:auto;right:45px}.header-middle-right{float:left;width:100%;margin-left:-260px;padding-left:260px;padding-top:30px;padding-bottom:10px}.header-middle-right .user-container{float:right;text-align:right}.header-middle-right .user-container .dropdown{text-align:left}@media (min-width:768px) and (max-width:991px){.header-middle-right{padding-top:30px;padding-bottom:30px;position:relative}}@media (max-width:1279px){.header-middle .logo-container{width:170px}.header-middle .logo-container .warning{right:-10px}.header-middle-right{margin-left:-200px;padding-left:200px}}@media (min-width:992px) and (max-width:1279px){.header-middle .logo-container{margin-top:45px;width:150px}.header-middle .logo-container .warning{right:-20px}}@media (min-width:768px) and (max-width:991px){.header-middle .logo-container{width:143px;margin-top:30px}.header-middle .logo-container a{padding-top:10px;padding-bottom:0}.header-middle-right{margin-left:-160px;padding-left:160px}}@media (min-width:768px){.header-middle-wrapper{display:table;width:100%;padding-left:17px}.search-wrapper,.user-wrapper{display:table-cell;vertical-align:top}.search-wrapper{width:100%}.user-wrapper{white-space:nowrap}.user-wrapper .dropdown{white-space:normal}}@media (min-width:992px) and (max-width:1279px){.header-middle-wrapper{padding-left:50px}}@media (max-width:991px){.header-middle-wrapper{padding-left:27px}}@media (min-width:992px){.user-wrapper{padding-top:5px}}.search-container{position:relative;z-index:5001;letter-spacing:.025em}.search-container .input-container{margin-right:110px;position:relative}.search-container .icon{display:inline-block;font-size:20px}.search-container .icon-remove{display:none;position:absolute;top:0;right:0;width:40px;height:50px;text-align:center;line-height:50px;z-index:1}.search-container .icon-remove:before{content:"\e917"}.search-container input[type=search]{height:50px;margin-bottom:5px;padding-left:11px;padding-right:40px;background:0 0;-ms-border-radius:3px;-o-border-radius:3px;border-radius:3px;border-color:#d9d9d9;color:#464445;font-size:16px;position:relative;z-index:1;letter-spacing:.025em}.search-container input[type=search]::-webkit-input-placeholder{color:#b3b3b3;line-height:1em;padding-top:2px;padding-bottom:0;font-size:14px;letter-spacing:.025em}.search-container input[type=search]:-moz-placeholder,.search-container input[type=search]::-moz-placeholder{color:#b3b3b3;padding-top:0;padding-bottom:0;font-size:14px;letter-spacing:.025em}.search-container input[type=search]:-ms-input-placeholder{color:#b3b3b3;line-height:1em;padding-top:3px;padding-bottom:0;font-size:14px;font-family:"ProximaNova-Regular",sans-serif;letter-spacing:.025em}.search-container input[type=search]::-ms-clear{display:none;width:0;height:0}.search-container input[type=search]::-ms-reveal{display:none;width:0;height:0}.search-container input[type=search]::-webkit-search-cancel-button,.search-container input[type=search]::-webkit-search-decoration,.search-container input[type=search]::-webkit-search-results-button,.search-container input[type=search]::-webkit-search-results-decoration{display:none}.search-container button{position:absolute;right:0;top:0;height:50px;width:100px;padding:0;background-color:#f2f2f2;border-bottom:2px solid #e6e6e6;-ms-border-radius:3px;-o-border-radius:3px;border-radius:3px;line-height:50px;font-size:16px;color:#b3b3b3;font-family:"pfsquaresanspro-Bold",sans-serif;letter-spacing:.025em;z-index:2;overflow:hidden}.search-container button:before{content:"\e90c";display:none;font-size:25px;line-height:50px}@media (max-width:1279px){.search-container .input-container{margin-right:60px}.search-container button{width:50px;padding:0}.search-container button:before{display:block;text-indent:initial}}.search-container .search-info a,.search-container .search-info span{opacity:0}@media (max-width:991px){.search-container .icon-remove,.search-container button{height:40px;line-height:40px}.search-container .icon-remove:before,.search-container button:before{line-height:40px;font-size:18px}.search-container input[type=search]{height:40px;margin-bottom:0}.search-container .search-info{display:none}}.search-info{overflow:hidden;height:13px;line-height:1;font-size:11px;color:#b3b3b3;padding-top:3px}.search-info a{display:inline-block;margin-left:10px;border-bottom:1px solid #b2b2b2;color:#b3b3b3}@media (min-width:992px) and (max-width:1279px){.search-info span{display:none}.search-info a{margin-left:0;margin-right:10px}}.price{color:#002855;letter-spacing:.005em}.search-suggestions{display:block;position:absolute;top:-9999px;left:-9999px;width:100%;max-height:316px;overflow-y:auto;background:#fff;border:1px solid #d9d9d9;border-top:none;z-index:7999;opacity:0;box-shadow:0 20px 20px 5px rgba(0,0,0,.15)}.basket-icon{display:inline-block;padding:0 18px}.basket-icon:before{background-image:url(https://s.wine.style/templates/default/StylesNew/images/icons/basket-icon.svg);width:20px;height:20px;background-size:cover;content:"";display:block;margin-bottom:2px;margin-top:2px}@media (max-width:767px){.basket-icon:before{width:26px;height:26px;position:relative;top:12px;margin-top:unset}}@media (min-width:768px) and (max-width:991px){.basket-icon:before{line-height:40px}}@media (min-width:768px){.basket-icon{position:relative;display:flex!important;justify-content:flex-end;flex-direction:column;align-items:center}}.basket-icon .bage,.favourites-icon .bage{display:inline-block;position:absolute;top:-10px;right:20px;padding:5px 3px 0;height:20px;min-width:20px;background:#df6760;-ms-border-radius:100%;-o-border-radius:100%;border-radius:100%;text-align:center;color:#fff!important;font-size:10px;line-height:1}@media (min-width:0px) and (max-width:767px){.basket-icon .bage,.favourites-icon .bage{top:5px}}.header-bottom{color:#fff;background:#002855;width:100%}@media (min-width:992px){.header-bottom{z-index:5000}}.header-bottom,.header-bottom .container{position:relative}.header-bottom .menu-catalog-block{float:left}.header-bottom .menu-container{margin-right:60px;height:50px;overflow:hidden;margin-left:250px}@media (min-width:768px) and (max-width:1279px){.header-bottom .menu-container{margin-left:50px;margin-right:240px}}@media (min-width:0px) and (max-width:767px){.header-bottom .menu-secondary-container{display:none!important}.header-bottom{background:#fff}.header-bottom .menu-catalog-block,.header-bottom .menu-catalog-block-icon{float:none;margin:0}.header-bottom .menu-catalog-block .link-dropdown,.header-bottom .menu-catalog-block-icon .link-dropdown{margin:20px 9px 0 20px}.header-bottom .menu-catalog-block .link-dropdown.menu-open,.header-bottom .menu-catalog-block-icon .link-dropdown.menu-open{margin:0}.header-bottom .menu-catalog-block .dropdown,.header-bottom .menu-catalog-block .link-dropdown,.header-bottom .menu-catalog-block-icon .link-dropdown{-webkit-transform:translateY(0);-moz-transform:translateY(0);-ms-transform:translateY(0);-o-transform:translateY(0);transform:translateY(0)}.header-bottom .menu-container{display:none}.header-bottom .menu-secondary-container{}}@media (min-width:0px) and (max-width:479px){.header-bottom .menu-catalog-block .link-dropdown,.header-bottom .menu-catalog-block-icon .link-dropdown{margin-right:20px}}header{position:relative;z-index:5000;background:#fff}.menu-catalog-block{position:static;font-family:"pfsquaresanspro-Medium",sans-serif;letter-spacing:.005em;width:240px}@media (min-width:768px) and (max-width:1279px){.menu-catalog-block{width:auto}}.menu-catalog-block .link-dropdown{padding-right:20px;background:#df6760;font-size:16px;position:relative;z-index:1000}.menu-catalog-block .link-dropdown span{display:inline-block;vertical-align:middle;line-height:50px;color:#fff}.menu-catalog-block .link-dropdown:after{display:none!important}.menu-catalog-block .icon{padding:0 18px;display:inline-block;color:#fff}.menu-catalog-block .icon:before{content:"";display:block}@media (min-width:768px){.menu-catalog-block .icon:before{width:19px;height:2px;background:#fff;box-shadow:0 -7px 0 0 #fff,0 7px 0 0 #fff;-ms-border-radius:1px;-o-border-radius:1px;border-radius:1px}}@media (min-width:0px) and (max-width:767px){.menu-catalog-block .icon:before{width:20px;height:3px;background:#fff;box-shadow:0 -6px 0 0 #fff,0 6px 0 0 #fff;-ms-border-radius:1px;-o-border-radius:1px;border-radius:1px}}.menu-catalog-block .dropdown{display:block;width:100%;background:#fff;top:-9999px;left:-9999px;opacity:0;overflow:hidden}@media (min-width:768px){.menu-catalog-block .dropdown{border:1px solid #fff;border-top:none;box-shadow:0 0 20px 5px rgba(0,0,0,.1);width:600px}}@media (min-width:0px) and (max-width:767px){.menu-catalog-block .link-dropdown{text-align:left;-ms-border-radius:4px;-o-border-radius:4px;border-radius:4px}.menu-catalog-block .link-dropdown span{line-height:50px;font-size:15px;font-family:"pfsquaresanspro-Regular",sans-serif}.menu-catalog-block .link-dropdown .burger-icon{padding:0 10px 0 20px}.menu-catalog-block .link-dropdown .burger-icon:before{height:2px}}.menu-catalog-block-icon{display:none}@media (min-width:0px) and (max-width:767px){.menu-catalog-block-icon{display:block}.menu-catalog-block-icon .link-dropdown{padding-right:20px;background:#df6760;position:relative;z-index:1000;text-align:left;-ms-border-radius:4px;-o-border-radius:4px;border-radius:4px}.menu-catalog-block-icon .link-dropdown span{display:inline-block;vertical-align:middle;line-height:40px;color:#fff;letter-spacing:.01em}.menu-catalog-block-icon .link-dropdown:after{display:none}.menu-catalog-block-icon .icon{padding:0 12px 0 16px;display:inline-block;color:#fff}.menu-catalog-block-icon .icon:before{content:"";display:block}}@media (min-width:0px) and (max-width:767px) and (min-width:768px){.menu-catalog-block-icon .icon:before{width:22px;height:4px;background:#fff;box-shadow:0 -8px 0 0 #fff,0 8px 0 0 #fff;-ms-border-radius:1px;-o-border-radius:1px;border-radius:1px}}@media (min-width:0px) and (max-width:767px) and (min-width:0px) and (max-width:767px){.menu-catalog-block-icon .icon:before{width:18px;height:3px;background:#fff;box-shadow:0 -6px 0 0 #fff,0 6px 0 0 #fff;-ms-border-radius:1px;-o-border-radius:1px;border-radius:1px}}@media (min-width:0px) and (max-width:479px){.menu-catalog-block-icon .link-dropdown{padding-right:0;margin-right:10px}}@media (min-width:0px) and (max-width:767px){.header-bottom .menu-catalog-block,.menu-catalog-block-body{display:none}}.menu-secondary-container .menu-main{border-top:1px solid #294162;background:#002855;right:0;top:100%;width:100%;padding-left:161px;z-index:100}.menu-container .link-permanent{position:absolute;font-size:16px;top:0;right:6px;padding:14px 12px 15px}.menu-container .link-permanent a,.menu-main{font-family:"pfsquaresanspro-Medium",sans-serif}.menu-container .link-permanent a{color:#ffdc2e;letter-spacing:.005em}.menu-main{font-size:0;text-align:center;padding-left:12px}.menu-main>li{float:left;font-size:16px}.menu-main>li>a{display:block;padding:14px 17px 15px;color:#fff}@media (min-width:992px) and (max-width:1279px){.menu-main{padding-left:22px}}@media (min-width:768px) and (max-width:991px){.menu-main{padding-left:2px}}header .sublevel{display:none;position:absolute;top:100%;width:100%;background:#fff;border:none;text-align:left;z-index:1010}header .sublevel:after,header .sublevel:before{position:absolute;left:-100%;right:-100%;content:''}header .sublevel:before{top:0;z-index:-1;height:100%;background-color:#fff}header .sublevel:after{bottom:-11px;height:11px;background-color:transparent;box-shadow:inset 0 5px 8px 0 rgba(0,0,0,.1)}header .sublevel-left{float:left;width:76%;padding:38px 6% 20px 10px;border-right:1px solid #f2f2f2;overflow:hidden}header .sublevel-left-menu{float:left;width:25%}header .sublevel-left-bottom{padding:10px 0;overflow:hidden;clear:both}header .sublevel-left-bottom .name{display:block;font-size:16px;padding:10px}header .sublevel-left-bottom .rounded-links{width:75%;float:left}@media (max-width:1279px){header .sublevel-left{padding-left:30px;padding-right:30px}}@media (max-width:991px){header .sublevel-left{width:100%;padding:15px;border-right:none}}header .sublevel-right{float:left;width:24%;padding:40px 30px 30px;text-align:center}header .sublevel-right img{max-height:300px}header .sublevel-right span{display:block;line-height:1.8}header .sublevel-right .price{font-family:"pfsquaresanspro-Bold",sans-serif}@media (max-width:991px){header .sublevel-right{display:none}}.menu-sublevel{color:#464445;text-align:left}.menu-sublevel span{display:block;font-size:16px;padding:5px 10px 14px}@media (min-width:0px) and (max-width:767px){.menu-sublevel span{font-size:14px}}.menu-sublevel a{color:#464445;font-family:"ProximaNova-Regular",sans-serif}.menu-sublevel .link-all{margin-left:10px;padding-top:5px}@media (min-width:768px){.menu-sublevel .link-all a{display:inline-block;position:relative;padding:0}}@media (min-width:0px) and (max-width:767px){.menu-sublevel .link-all a{text-transform:uppercase;color:#1d375a}}.menu-sublevel .divider{margin:15px 0 14px 10px;max-width:130px;border-bottom:1px solid #f2f2f2}.menu-sublevel>li>a{display:block;padding:4px 10px;text-align:left;letter-spacing:.025em}.menu-sublevel-down a:before{content:"\e916";display:inline-block;vertical-align:middle;height:12px;margin-right:10px;text-decoration:none;color:#b2b2b2;overflow:hidden}.rounded-links{overflow:hidden}.rounded-links a{display:block;float:left;width:33.33%;overflow:hidden;color:#464445;font-family:"ProximaNova-Regular",sans-serif;font-size:14px}.rounded-links a .icon-round{display:block;width:12px;height:12px;margin-bottom:10px;background:#fff;border:1px solid #f2f2f2;-ms-border-radius:100%;-o-border-radius:100%;border-radius:100%;position:relative}.rounded-links a .icon-round:after{content:"";display:block;position:absolute;top:5px;left:0;width:300px;height:1px;background:#f2f2f2;z-index:-1}.rounded-links a:last-child .icon-round:after{display:none}.has-sublevel .sublevel .sublevel-all,.rounded-links a .text{display:block}.has-sublevel .sublevel .sublevel-back,.has-sublevel .sublevel .sublevel-title{display:block;color:#002855;padding:15px}.has-sublevel .sublevel .sublevel-back{padding-left:5px;font-size:16px}.has-sublevel .sublevel .sublevel-back:before{content:"\e914";display:inline-block;margin-right:5px}.has-sublevel .sublevel .sublevel-all{max-width:290px;margin:20px auto;padding:10px;border:1px solid #002855;text-align:center;-ms-border-radius:5px;-o-border-radius:5px;border-radius:5px;color:#002855}.has-sublevel .sublevel .sublevel-title{background:#f0f0f0;font-size:18px;border-bottom:1px solid #aca8a7;position:relative}.has-sublevel .sublevel .sublevel-title:after,.has-sublevel .sublevel .sublevel-title:before{content:"";display:block;position:absolute;left:20px;width:0;height:0;border-style:solid;border-width:10px 10px 0;border-color:#f0f0f0 transparent transparent transparent}.has-sublevel .sublevel .sublevel-title:after{bottom:-10px}.has-sublevel .sublevel .sublevel-title:before{bottom:-9px;z-index:1}.has-sublevel .sublevel .sublevel-title:after{border-top-color:#aca8a7}.rotated{display:inline-block;color:#b2b2b2;font-size:18px;-webkit-transform:rotate(-90deg) translateX(-70%);-moz-transform:rotate(-90deg) translateX(-70%);-ms-transform:rotate(-90deg) translateX(-70%);-o-transform:rotate(-90deg) translateX(-70%);transform:rotate(-90deg) translateX(-70%)}@media (min-width:0px) and (max-width:767px){.rotated{display:none}}.popup{display:none;position:fixed;top:0;left:0;height:100%;width:100%;background:rgba(0,0,0,.3);z-index:8020;overflow:auto}.popup .popup-container{display:block;position:relative;width:100%;max-width:500px;margin:5% auto 4%;padding:40px;background:#fff}@media (min-width:0px) and (max-width:767px){.popup .popup-container{margin:0 auto;height:100%;max-height:100%;max-width:100%;padding:30px 15px 20px;overflow:auto}}@media (min-width:768px){.popup-permission .popup-container{max-width:580px;padding:40px 80px 60px}}.popup-permission .title{margin-bottom:40px;font-family:"pfsquaresanspro-Bold",sans-serif;color:#df6760;font-size:72px}.popup-permission .title span{display:block;font-family:"ProximaNova-Regular",sans-serif;font-size:18px}.popup-permission .text{font-size:12px;margin-bottom:40px}.popup-permission .text-collapsible .text-show{display:none}.popup-permission .rotated{display:block;position:absolute;bottom:40%;left:-35px;color:#df6760;font-size:28px;-webkit-transform:rotate(-90deg);-moz-transform:rotate(-90deg);-ms-transform:rotate(-90deg);-o-transform:rotate(-90deg);transform:rotate(-90deg)}@media (min-width:0px) and (max-width:767px){.popup-permission .popup-container{position:absolute;bottom:0;left:0;height:auto;width:100%}.popup-permission .text-collapsible{margin-bottom:20px}.popup-permission .text-collapsible p{display:none}.popup-permission .text-collapsible .text-show{display:inline-block;border-bottom:1px dashed #002855}.popup-permission .title{margin-bottom:10px;font-size:44px;line-height:1}.popup-permission .title span{line-height:1.4;font-size:14px}.popup-permission .text{margin-bottom:10px}.popup-permission .rotated{display:none}.popup-permission .button{width:100%}}.info-banner .container{padding:15px 50px 15px 10px;text-align:center;position:relative;z-index:11}.info-banner p{font-size:18px;margin-bottom:0}.info-banner .icon-close{display:block;position:absolute;right:0;top:0;width:52px;height:52px;text-align:center;font-size:30px}.info-banner .icon-close:before{content:"\e917";line-height:52px}.info-banner h3,.info-banner.info-banner-content h3{margin:0 0 4px;font-size:14px}.info-banner .small{font-size:12px;font-style:italic}.info-banner a{text-decoration:underline}.info-banner.yellow{background:#ffdc2e}@media (min-width:768px) and (max-width:991px){.info-banner p{font-size:14px}}@media (min-width:0px) and (max-width:767px){.info-banner p{font-size:12px}}.info-banner.info-banner-content{width:100%;margin-top:-1px}@media (min-width:992px){.info-banner.info-banner-content{z-index:7999}}.info-banner.info-banner-content .container{padding:6px 10px}.info-banner.info-banner-content p{margin-bottom:0}.info-banner.info-banner-content .small{font-size:12px;font-style:italic}@media screen and (max-width:767px){.has-sublevel>div{position:absolute;top:0;left:0;width:100%}header .sublevel-left{padding:0}header .sublevel-left-menu{float:none;width:100%;margin-bottom:0}header .sublevel-left-bottom .rounded-links{display:none}.menu-catalog-block .dropdown{overflow:visible}header .sublevel-left-bottom{padding:10px 0 30px;text-align:center}}.subheader{background:#f2f2f2;background-size:cover;overflow:hidden}.subheader-main{display:table;width:100%;overflow:hidden}.subheader .container{padding-top:8px;padding-bottom:8px}.subheader .subheader-item{display:table-cell;vertical-align:middle;padding:3px 10px;line-height:18px;position:relative}.subheader .subheader-link{font-size:14px;color:#1d375a;font-family:"pfsquaresanspro-Medium",sans-serif;text-decoration:none}.subheader .icon-close{color:#b2b2b2;font-size:25px}.subheader .icon-close:before{line-height:60px}.subheader .subheader-item-sm{font-size:12px;font-style:normal}.subheader .subheader-item-iconed{font-size:14px;font-family:"pfsquaresanspro-Regular",sans-serif;color:#1d375a;text-align:left}.subheader .subheader-item-iconed .icon{display:inline-block;vertical-align:middle}.subheader .subheader-item-iconed .icon:before{content:"\e968";display:inline-block;vertical-align:middle;margin-right:5px;color:#df6760;font-size:12px}.subheader .subheader-item-iconed .text{display:block}@media (max-width:1279px){.subheader br{display:none}}@media (min-width:992px) and (max-width:1279px){.subheader .subheader-item-iconed{font-size:12px}.subheader .subheader-item-iconed:before{display:none}}@media (max-width:991px){.subheader .container{padding:10px 15px}.subheader .icon-close:before{line-height:40px}.subheader-main{display:block}.subheader .subheader-item{display:block;padding-top:0;padding-bottom:7px;line-height:1.5;font-size:11px}.subheader .subheader-item-iconed{font-size:12px;text-align:center}.subheader .subheader-item-iconed .icon{margin-bottom:3px}.subheader .subheader-item-iconed .icon:before{font-size:14px}.subheader .subheader-link{font-size:13px}}@media (min-width:0px) and (max-width:400px){.subheader br{display:block}}.user-container>div{display:inline-block;vertical-align:top}@media (min-width:768px) and (max-width:991px){.user-container .user-block{position:absolute;top:-50px;left:10px}.user-container .user-block .has-dropdown-favourites{display:none}}.user-container .small{display:none}@media only screen and (min-width:1151px){.user-container .small{display:inline-block;padding:0 15px;margin-right:9px;line-height:50px;font-size:13px;letter-spacing:.025em}}.user-container .has-dropdown .link-dropdown{color:#464445;font-size:13px}.user-container .has-dropdown .link-dropdown:after{opacity:0}.user-container .has-dropdown .dropdown{display:none;left:-9999px;opacity:0;background:#fff;width:100%;min-width:175px;z-index:1012}.user-container .has-dropdown.basket-block .dropdown{display:none;left:0;width:360px}@media (min-width:0px) and (max-width:767px){.user-container .has-dropdown.basket-block .dropdown{width:320px}}.user-block .has-dropdown{display:inline-block;vertical-align:top;margin-right:-1px}@media (min-width:768px) and (max-width:991px){.user-block .has-dropdown{margin-right:0;height:50px;box-sizing:border-box;padding-top:5px}}.user-block .has-dropdown .link-dropdown{padding:0 5px 0 10px;display:flex;justify-content:flex-end;flex-direction:column;align-items:center}.user-block .has-dropdown .dropdown{padding:8px 0}.has-dropdown-favourites .link-dropdown .icon:before,.has-dropdown-user .link-dropdown:before{display:inline-block;vertical-align:-4px;margin-right:6px;font-size:20px;line-height:1}@media (max-width:1480px){.has-dropdown-favourites .link-dropdown .icon:before,.has-dropdown-user .link-dropdown:before{margin-right:0!important}}.has-dropdown-favourites .link-dropdown .icon{position:relative}.has-dropdown-favourites .link-dropdown .icon:before{content:"";background-size:cover;background:url(https://s.wine.style/templates/default/StylesNew/images/icons/favorite-icon.svg) no-repeat;width:22px;height:20px;margin-bottom:1px;margin-top:2px}.has-dropdown-favourites .link-dropdown .icon .bage{top:-10px;right:-12px}.has-dropdown-favourites .link-dropdown:after{margin-left:5px}@media (min-width:768px) and (max-width:991px){.has-dropdown-favourites{display:none}}.has-dropdown-user{z-index:5002}.has-dropdown-user .link-dropdown{position:relative;padding-right:15px!important;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.has-dropdown-user .link-dropdown:before{background-image:url(https://s.wine.style/templates/default/StylesNew/images/icons/boy-profile-icon.svg);width:24px;height:24px;background-size:cover;content:""}.has-dropdown-favourites .link-dropdown:after,.has-dropdown-user .link-dropdown:after{position:absolute;right:0;top:0;width:18px;line-height:24px;text-align:left}@media (min-width:768px) and (max-width:991px){.has-dropdown-user{width:auto}}.basket-block{z-index:31}.basket-block .dropdown{color:#1d375a;z-index:100}@media (min-width:768px) and (max-width:991px){.basket-block{margin-right:10px}}@media (min-width:992px){.basket-block{padding-right:12px}.basket-block .link-dropdown:after{position:absolute;top:3px;right:-2px}.basket-block .basket-icon{display:flex;justify-content:flex-end;flex-direction:column;align-items:center}}@media (max-width:991px){.basket-block .link-dropdown:after{display:none}}@media only screen and (min-width:1151px){.basket-block .basket-icon{display:flex;justify-content:flex-end;flex-direction:column;align-items:center}}.header-right{float:right;text-align:right}.header-right-block{float:right;vertical-align:top;font-size:13px}.header-right-relative{float:left;position:relative;border-right:1px solid #f0f0f0}@media (max-width:991px){.header-right-relative{margin-right:0}}header .has-hover .hover-block{position:absolute;left:-9999px;top:-9999px;background:#fff;z-index:8000;opacity:0;box-shadow:0 11px 10px 5px rgba(0,0,0,.15)}@media (min-width:768px) and (max-width:1279px){.link-hover .hide-tablet{display:none}}@media (min-width:1280px){.link-hover .hide-desktop{display:none}}.has-dropdown-address{z-index:5003;position:static;letter-spacing:.025em}.has-dropdown-address span.hide-tablet{position:relative;top:-2px;left:4px}.has-dropdown-address .link-dropdown{display:block;font-size:13px}.has-dropdown-address .link-dropdown:after{display:none}.has-dropdown-address .link-dropdown:before{content:"\e975";display:inline-block;vertical-align:-3px;margin-right:5px;font-size:20px;color:#464744}.dropdown-addresses{margin-top:-1px;padding-top:1px;max-height:450px;overflow:auto}.dropdown-addresses::-webkit-scrollbar{width:10px;position:relative;right:10px}.dropdown-addresses::-webkit-scrollbar-track{background-color:#f2f2f2}.dropdown-addresses::-webkit-scrollbar-thumb{background-color:#b2b2b2}@media (min-width:0px) and (max-width:767px){.dropdown-addresses{max-height:100vh}}header .header-right-block.has-dropdown-address .dropdown{margin-top:-1px}.header-mobile{position:relative}@media (min-width:768px){.header-mobile{display:none}}.header-mobile-top{background:#fff;position:relative;z-index:5002;border-bottom:1px solid #f2f2f2;box-shadow:0 2px 2px 1px rgba(0,0,0,.05)}.header-mobile .logo-container{float:left}.header-mobile .logo-container a{display:block;padding:11px 15px 7px}.header-mobile .logo-container img{display:inline-block;max-height:28px;margin-top:7px;width:100px}.header-mobile .has-dropdown,.header-mobile .has-dropdown .dropdown{z-index:5002}.header-mobile .has-dropdown-address,.header-mobile .has-dropdown-phone{display:block;float:right;position:static}.header-mobile .has-dropdown-address .link-dropdown,.header-mobile .has-dropdown-phone .link-dropdown{display:block;width:45px;height:50px;padding:0!important;text-align:center}.header-mobile .has-dropdown-phone .link-dropdown:before{content:"\e90b"}.header-mobile .has-dropdown-address .link-dropdown:before,.header-mobile .has-dropdown-phone .link-dropdown:before{display:inline-block;line-height:50px;font-size:26px;color:#b2b2b2}.header-mobile .has-dropdown-address .link-dropdown:after,.header-mobile .has-dropdown-phone .link-dropdown:after{display:none}.header-mobile .has-dropdown-address .dropdown,.header-mobile .has-dropdown-phone .dropdown{display:block;background:#fff;width:100%;left:-9999px;top:-9999px;opacity:0}.header-mobile .dropdown{border:1px solid #f2f2f2;border-top-color:#fff;box-shadow:0 0 20px 5px rgba(0,0,0,.15)}.header-mobile .has-dropdown-address .link-dropdown:before{content:"\e909";margin-right:0}.header-mobile .has-dropdown .link-dropdown:after{content:"";display:block;position:absolute;bottom:0;left:50%;margin-left:-10px;width:0;height:0;border-style:solid;border-width:0 10px 10px;border-color:transparent transparent #fff transparent;opacity:0;visibility:hidden}.header-aside-right{float:right;width:40px;z-index:5002;position:static;border-left:1px solid #f2f2f2}.header-aside-right .link-dropdown{display:block;width:40px;height:50px;text-align:center}.header-aside-right .link-dropdown span{display:block;height:4px;width:4px;margin:-1px auto 0;background:#b2b2b2;-ms-border-radius:100%;-o-border-radius:100%;border-radius:100%;position:relative;top:50%}.header-aside-right .link-dropdown span:after,.header-aside-right .link-dropdown span:before{content:"";display:block;position:absolute;height:4px;width:4px;background:#b2b2b2;-ms-border-radius:100%;-o-border-radius:100%;border-radius:100%}.header-aside-right .link-dropdown span:before{top:-8px}.header-aside-right .link-dropdown span:after{bottom:-8px}.header-aside-right .dropdown{display:block;position:absolute;top:50px;width:100%;-webkit-transform:translateX(110%);-moz-transform:translateX(110%);-ms-transform:translateX(110%);-o-transform:translateX(110%);transform:translateX(110%);padding:10px 0;background:#fff;border-right:1px solid #f2f2f2;border-bottom:1px solid #f2f2f2;z-index:5002}.menu-catalog-block-mob{display:none;background:#002855;margin:0 9px 10px 20px;-ms-border-radius:0 0 4px 4px;-o-border-radius:0 0 4px 4px;border-radius:0 0 4px 4px;overflow:hidden}.menu-catalog-block-mob ul{padding-top:5px}.menu-catalog-block-mob li a{display:block;padding:5px 15px;font-family:"pfsquaresanspro-Regular",sans-serif;color:#fff}.menu-catalog-block-mob .menu-open{display:block;margin:0;padding:5px 15px;background:#002855;border-top:1px solid #1d375a;text-align:center}.menu-catalog-block-mob .menu-open:before{content:"\e902";font-size:20px;line-height:30px;color:#fff}@media (min-width:0px) and (max-width:479px){.menu-catalog-block-mob{margin-right:20px}}@media (min-width:768px){.priority-nav{white-space:nowrap}.priority-nav li{white-space:normal}.priority-nav>ul,.priority-nav>ul>li{display:inline-block}.priority-nav__dropdown,.priority-nav__dropdown-toggle{visibility:hidden;position:absolute}}@media (min-width:768px) and (max-width:991px){.menu-catalog-block .link-dropdown span,.priority-nav li{font-size:14px}}header .sublevel-left-bottom .button{background-color:#f2f2f2;color:#464445;border:none;border-bottom:2px solid #e6e6e6;padding-top:11px;padding-bottom:12px}header .sublevel-right{color:#464445;line-height:1.5625}header .sublevel-right .text{line-height:1.5625;font-family:"ProximaNova-Regular",sans-serif;letter-spacing:.025em}header .sublevel-right .price{color:#1d375a;font-size:18px;padding-top:25px}header .sublevel-right a{color:#1d375a}.search-suggestions{padding:0 0 10px!important}.popup-permission .button-yellow{background:#f2f2f2}.popup-permission .title span{color:#000}.popup-permission{background:rgba(0,0,0,.9)}@media (max-width:991px){.popup-permission{background:rgba(0,0,0,.7)}}@media (min-width:992px) and (max-width:1068px){.header-top .small.obrezka{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:140px}}header .has-hover .link-hover{border-top:2px solid transparent}header .header-right .has-hover .hover-block{position:absolute;left:-9999px;top:-9999px;background:#fff;z-index:8000;opacity:0;box-shadow:0 11px 10px 5px rgba(0,0,0,.15)!important}.sublevel-left-menu li.is-new a:after{content:"New";margin-left:5px;color:#d4494c!important;font-size:12px;margin-top:-4px;position:absolute}@font-face{font-family:'icomoon';src:url(https://s.wine.style/templates/default/StylesNew/fonts/icomoon/icomoon.eot?9p1agk);src:url(https://s.wine.style/templates/default/StylesNew/fonts/icomoon/icomoon.eot?9p1agk#iefix) format('embedded-opentype'),url(https://s.wine.style/templates/default/StylesNew/fonts/icomoon/icomoon.ttf?9p1agk) format('truetype'),url(https://s.wine.style/templates/default/StylesNew/fonts/icomoon/icomoon.woff?9p1agk) format('woff'),url(https://s.wine.style/templates/default/StylesNew/fonts/icomoon/icomoon.svg?9p1agk#icomoon) format('svg');font-weight:400;font-style:normal}</style>
+	<link rel="apple-touch-icon" href="https://s.wine.style/templates/default/StylesNew/images/favicon/apple-icon-152x152.png">
+	<link rel="icon" type="image/png" href="https://s.wine.style/templates/default/StylesNew/images/favicon/favicon-96x96.png">
+	<!--[if IE]><link rel="shortcut icon" href="https://s.wine.style/templates/default/StylesNew/images/favicon/favicon.ico"><![endif]-->
+	<meta name="msapplication-TileColor" content="#ffffff" />
+	<meta name="msapplication-TileImage" content="https://s.wine.style/templates/default/StylesNew/images/favicon/ms-icon-144x144.png" />
+	<meta name="yandex-verification" content="514ee2f5299b2bf4" />
+	
+	
+	
+	<script type="text/javascript">
+	!function(e,n,t){function o(e,n){return typeof e===n}function s(){var e,n,t,s,a,i,r;for(var l in c)if(c.hasOwnProperty(l)){if(e=[],n=c[l],n.name&&(e.push(n.name.toLowerCase()),n.options&&n.options.aliases&&n.options.aliases.length))for(t=0;t<n.options.aliases.length;t++)e.push(n.options.aliases[t].toLowerCase());for(s=o(n.fn,"function")?n.fn():n.fn,a=0;a<e.length;a++)i=e[a],r=i.split("."),1===r.length?Modernizr[r[0]]=s:(!Modernizr[r[0]]||Modernizr[r[0]]instanceof Boolean||(Modernizr[r[0]]=new Boolean(Modernizr[r[0]])),Modernizr[r[0]][r[1]]=s),f.push((s?"":"no-")+r.join("-"))}}function a(e){var n=u.className,t=Modernizr._config.classPrefix||"";if(p&&(n=n.baseVal),Modernizr._config.enableJSClass){var o=new RegExp("(^|\\s)"+t+"no-js(\\s|$)");n=n.replace(o,"$1"+t+"js$2")}Modernizr._config.enableClasses&&(n+=" "+t+e.join(" "+t),p?u.className.baseVal=n:u.className=n)}function i(){return"function"!=typeof n.createElement?n.createElement(arguments[0]):p?n.createElementNS.call(n,"http://www.w3.org/2000/svg",arguments[0]):n.createElement.apply(n,arguments)}function r(){var e=n.body;return e||(e=i(p?"svg":"body"),e.fake=!0),e}function l(e,t,o,s){var a,l,f,c,d="modernizr",p=i("div"),h=r();if(parseInt(o,10))for(;o--;)f=i("div"),f.id=s?s[o]:d+(o+1),p.appendChild(f);return a=i("style"),a.type="text/css",a.id="s"+d,(h.fake?h:p).appendChild(a),h.appendChild(p),a.styleSheet?a.styleSheet.cssText=e:a.appendChild(n.createTextNode(e)),p.id=d,h.fake&&(h.style.background="",h.style.overflow="hidden",c=u.style.overflow,u.style.overflow="hidden",u.appendChild(h)),l=t(p,e),h.fake?(h.parentNode.removeChild(h),u.style.overflow=c,u.offsetHeight):p.parentNode.removeChild(p),!!l}var f=[],c=[],d={_version:"3.6.0",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,n){var t=this;setTimeout(function(){n(t[e])},0)},addTest:function(e,n,t){c.push({name:e,fn:n,options:t})},addAsyncTest:function(e){c.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=d,Modernizr=new Modernizr;var u=n.documentElement,p="svg"===u.nodeName.toLowerCase(),h=d._config.usePrefixes?" -webkit- -moz- -o- -ms- ".split(" "):["",""];d._prefixes=h;var m=d.testStyles=l;Modernizr.addTest("touch",function(){var t;if("ontouchstart"in e||e.DocumentTouch&&n instanceof DocumentTouch)t=!0;else{var o=["@media (",h.join("touch-enabled),("),"heartz",")","{#modernizr{top:9px;position:absolute}}"].join("");m(o,function(e){t=9===e.offsetTop})}return t}),s(),a(f),delete d.addTest,delete d.addAsyncTest;for(var v=0;v<Modernizr._q.length;v++)Modernizr._q[v]();e.Modernizr=Modernizr}(window,document);
+		// Предзагрузка изображения. Загружаем, чтобы потом (после загрузки скриптов и стилей) не пришлось.
+		function image_preloader(src){
+			var img = new Image();
+			img.src = src;
+		}
+		var catalog_count_loads = 2;
+
+		// Отложенная загрузка стилей
+		function cssLoader() {
+			var insertPoint =  document.getElementsByClassName('critical')[0] || document.getElementsByTagName('head')[0].lastChild,
+				csss = ["https://s.wine.style/templates/default/StylesNew/min/all.min.css?version=23.04.2021_20:46"];
+			for(var i = 0; i < csss.length; i++){
+				var newLink = document.createElement('link');
+				newLink.rel = 'stylesheet';
+				newLink.type = 'text/css';
+				newLink.href = csss[i];
+				insertPoint.parentNode.insertBefore(newLink, insertPoint.nextSibling);
+				insertPoint = newLink;
+			}
+		}
+
+		
+
+	</script>
+	<script type="text/javascript" src="https://s.wine.style/templates/default/StylesNew/js/Lang_rus.js?version=17.06.2021_20:18" defer></script>
+	<script type="text/javascript" src="https://s.wine.style/templates/default/StylesNew/min/all.min.js?version=15.06.2021_15:51" defer></script><![if IE]><script src="https://livechat.chat2desk.com/packs/ie11-supporting-7c7048f2020b6d05293e.js"></script><![endif]>
+											   <script type="text/javascript" async="" src="https://s.wine.style/templates/default/StylesNew/js/chat2desk.js?version=03.07.2020_17:00"></script>
+	<script type="text/javascript" src="https://s.wine.style/templates/default/StylesNew/min/product.min.js?version=15.04.2021_15:20" defer></script>
+	
+	
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-145254192-1');
+    </script>
+</head>
+<body class="product w1024">
+	
+	<div class="body-wrapper">
+		<header  >
+	<div class="banners-top">
+    
+	
+    
+    
+    
+    <div class="info-banner subheader" style="display:none;" role="complementary">
+	<div class="subheader-overlay">
+		<div class="container container-fluid">
+			<div class="subheader-main">
+				<p class="subheader-item subheader-item-iconed">
+					<span class="icon icon-star"></span>
+					<span class="icon icon-star"></span>
+					<span class="icon icon-star"></span>
+					<span class="icon icon-star"></span>
+					<span class="icon icon-star"></span>
+					<span class="text">Гарантия качества и безопасности</span>
+				</p>
+				<p class="subheader-item subheader-item-sm">Оригинальные продукты от официальных <br/>импортёров. <span class="col-bordo">Продажи под контролем ЕГАИС</span></p>
+				<p class="subheader-item subheader-item-sm">Тысячи отзывов и оценок <span class="col-bordo">реальных <br/>покупателей</span>. Доверие постоянных клиентов</p>
+				<p class="subheader-item subheader-item-sm">WineStyle в списке <span class="col-bordo">крупнейших <br/>ecommerce-компаний</span> России</p>
+				<a href="https://spb.winestyle.ru/pages/about.html" class="subheader-item subheader-link"><span>Подробнее</span></a>
+			</div>
+			<span class="icon icon-close"></span>
+		</div>
+	</div>
+</div>
+    
+</div>
+
+<div class="header-mobile">
+    <div class="header-mobile-top clearfix">
+        <div class="logo-container">
+		<a href="https://spb.winestyle.ru">
+                <img src="https://s.wine.style/templates/default/StylesNew/images/empty.png"  data-src-base="https://s.wine.style/templates/default/StylesNew/images/" data-src=">0:logo.svg" style="opacity: 0" height="1" class="resetheight"/>
+            </a>
+        </div>
+        <div class="has-dropdown header-aside-right">
+            <span class="link-dropdown"><span></span></span>
+            <ul class="dropdown">
+                <li>
+					<span class="slogan">Сеть винных магазинов.</span>
+                    <a href="tel:+78126271315" class="phone">+7&nbsp;(812)&nbsp;627-13-15</a>
+                    <a class="phone-icon"><span>Заказать звонок</span></a>
+                </li>
+                <li class="title">О нас</li>
+			<li><a href="https://spb.winestyle.ru/pages/corporate.html">Корпоративным клиентам</a></li>
+			<li><a href="https://spb.winestyle.ru/pages/contacts.html">Контакты и адреса магазинов</a></li>
+			<li><a href="https://spb.winestyle.ru/pages/delivery.html">Покупка и оплата</a></li>
+			<li><a href="https://spb.winestyle.ru/pages/bestsellers.html">Бестселлеры</a></li>
+			<li><a href="https://spb.winestyle.ru/articles/">Блог Winestyle</a></li>
+                <li><a class="ordSt">Статус заявки</a></li>
+                <li class="title">Личный кабинет</li>
+                <li class="lk-name-account hidden"><a href="https://spb.winestyle.ru/private_office/"></a></li>
+                <li class="lk-section hidden"><a href="https://spb.winestyle.ru/private_office/orders/">Заявки</a></li><li class="lk-section hidden"><a href="https://spb.winestyle.ru/private_office/profile/">Профиль</a></li><li class="lk-section hidden"><a href="https://spb.winestyle.ru/private_office/marks/">Оценки</a></li><li class="lk-section hidden"><a href="https://spb.winestyle.ru/private_office/waitprods/">Узнать о поступлении</a></li><li class="header-logout hidden"><a >Выйти</a></li><li class="header-login"><a >Вход</a></li><li class="header-reg"><a >Регистрация</a></li>
+				                    <li class="title title_favourite">Избранное
+						<a href="https://spb.winestyle.ru/wishlist.php?action=viewwishlistitems" class="favourite-icon"></a>
+						<span   class="favourite-info">Вы еще ничего не добавили в избранное</span>
+					</li>
+            </ul>
+        </div>
+        <div class="has-dropdown-phone has-dropdown">
+            <span class="link-dropdown"></span>
+            <div class="dropdown dropdown-addresses">
+                <div class="address-item">
+                    <a class="phone-icon"><span>Заказать звонок</span></a>
+                    <span class="col-gray-light">Наши операторы сейчас отдыхают. Оставьте свой номер и мы перезвоним вам в рабочие часы.</span>
+                </div>
+                <div class="address-item">
+                    <a href="tel:+78126271315" class="phone">+7&nbsp;(812)&nbsp;627-13-15</a>
+                    <span class="col-red fs-i">Операторы уже не работают</span>
+                    <span class="dots"></span>
+                    <span class="meta"><span class="first"  >пн-пт 09:00 - 18:00</span><span class="fs-i"  >сб-вс - выходной</span></span>
+                </div>
+			<a href="https://spb.winestyle.ru/pages/contacts.html" class="link-lg">Контакты</a>
+            </div>
+        </div>
+        <div class="has-dropdown-address has-dropdown" >
+            <span class="link-dropdown"></span>
+            <div data-mobile-container="addresses" class="dropdown"></div>
+        </div>
+    </div>
+    <div data-mobile-container="search-container" class="header-mobile-middle"></div>
+</div>
+
+<div class="header-top-container header-desktop">
+    <div class="container container-fluid">
+        <div class="header-top clearfix">
+            <div class="header-left tabletlg-only">
+				<span class="small small-left">Сеть винных магазинов.</span>
+                <span class="small iconed-attention obrezka" >Гарантия качества и безопасности</span>
+            </div>
+            <div class="header-right">
+                <div class="header-right-relative clearfix">
+                    <div class="header-right-block has-dropdown-address has-hover ">
+	<a  class="link-dropdown link-hover">
+    <span class="hide-tablet">Адреса магазинов</span>
+    <span class="hide-desktop">Магазины</span>
+  </a>
+	<div class="dropdown hover-block">
+		<div data-mobile-move="addresses" class="dropdown-addresses dropdown-content">
+						<div class="city-wrapper" style="">
+				<div class="has-hover">
+					<div class="link-hover">
+						<span>Город:</span>
+						<span class="city">Санкт-Петербург</span>
+						<span class="change">Изменить</span>
+					</div>
+					<div class="dropdown-city hover-block">
+						<div class="cities">
+							<a href="https://ekb.winestyle.ru/products/Lindemans-Gueuze.html" data-city="5" class="city-link">Екатеринбург</a><a href="https://spb.winestyle.ru/products/Lindemans-Gueuze.html" data-city="6" class="city-link">Санкт-Петербург</a><a href="https://nn.winestyle.ru/products/Lindemans-Gueuze.html" data-city="7" class="city-link">Нижний Новгород</a><a href="https://tyumen.winestyle.ru/products/Lindemans-Gueuze.html" data-city="8" class="city-link">Тюмень</a><a href="https://rostov.winestyle.ru/products/Lindemans-Gueuze.html" data-city="9" class="city-link">Ростов-на-Дону</a><a href="https://krasnodar.winestyle.ru/products/Lindemans-Gueuze.html" data-city="10" class="city-link">Краснодар</a><a href="https://winestyle.ru/products/Lindemans-Gueuze.html" data-city="1" class="city-link">Москва</a><a href="/pages/for_investors.html" class="city-link for_investors_link">Сотрудничество</a>
+						</div>
+					</div>
+				</div>
+			</div>			
+			<a href="/moskovsky-shop/" class="address-item">
+	<span class="title is-new">"Винограция" Московский проспект</span>
+	<span class="partner-boutique"  >(Винный бутик "Винограция")</span>
+	
+	<span>Санкт-Петербург, Московский проспект, д. 73, к. 5</span>
+	<span class="meta"><span class="first"  >пн-вс 11:00 - 22:00</span> </span>
+</a><a href="/lesnoy-shop/" class="address-item">
+	<span class="title ">"Винограция" Лесной проспект</span>
+	<span class="partner-boutique"  >(Винный бутик "Винограция")</span>
+	
+	<span>Санкт-Петербург, Лесной пр., д. 8</span>
+	<span class="meta"><span class="first"  >пн-вс 11:00 - 21:00</span> </span>
+</a><a href="/gavrskaya-shop/" class="address-item">
+	<span class="title ">"Винограция" Гаврская</span>
+	<span class="partner-boutique"  >(Винный бутик "Винограция")</span>
+	
+	<span>Санкт-Петербург, ул. Гаврская, д.2, лит. А, пом. 8-Н</span>
+	<span class="meta"><span class="first"  >пн-вс 12:00 - 22:00</span> </span>
+</a>
+		</div>
+		<a href="https://spb.winestyle.ru/pages/contacts.html#map" class="link-lg">Показать на карте</a>
+		
+	</div>
+</div>
+                </div>
+                <div class="header-right-relative clearfix">
+                    <div class="header-right-block has-dropdown-support has-hover ">
+                        <a class="link-dropdown link-hover support">
+                            <span class="hide-tablet">Помощь и консультация</span>
+                            <span class="hide-desktop"></span>
+                        </a>
+                        <div class="dropdown-addresses hover-block">
+                            <div id="chat-24-inner-container" class="list-messengers address-item back-call">
+                                <a style="display: none !important;" class="link-emaqil-support" href="mailto:"><span></span></a>
+                                <a class="phone-icon"><span>Заказать звонок</span></a>
+                            </div>
+                            <div class="address-item">
+    <span class="col-gray-light">Наши операторы сейчас отдыхают. Оставьте свой номер и мы перезвоним вам в рабочие часы.</span>
+</div>
+<a href="tel:+78126271315" class="phone">+7&nbsp;(812)&nbsp;627-13-15</a>
+<div class="address-item back-call"><span class="col-red fs-i">Операторы уже не работают</span><span class="meta"><span class="first"  >пн-пт 09:00 - 18:00</span><span class="fs-i"  >сб-вс - выходной</span></span>
+</div>
+                            <div class="chat-24-inner-container-divider"></div>
+                            <a href="https://spb.winestyle.ru/pages/contacts.html" class="link-lg">Контакты</a>
+                        </div>
+                    </div>
+                </div>
+				<div class="header-right-block">
+                    <a href="https://spb.winestyle.ru/pages/delivery.html" class="small tabletlg-only">Как купить?</a>
+                    <a href="https://spb.winestyle.ru/pages/corporate.html" class="small tabletlg-only obrezka">Корпоративным клиентам</a>
+                </div>
+			</div>	
+            <div class="city-wrapper" style="">
+                <div class="has-hover">
+                    <div class="link-hover">
+                        <span class="icon-city"></span>
+                        <span class="city">Санкт-Петербург</span>
+                    </div>
+                    <div class="dropdown-city hover-block">
+                        <div class="cities">
+                            <a href="https://ekb.winestyle.ru/products/Lindemans-Gueuze.html" data-city="5" class="city-link">Екатеринбург</a><a href="https://spb.winestyle.ru/products/Lindemans-Gueuze.html" data-city="6" class="city-link">Санкт-Петербург</a><a href="https://nn.winestyle.ru/products/Lindemans-Gueuze.html" data-city="7" class="city-link">Нижний Новгород</a><a href="https://tyumen.winestyle.ru/products/Lindemans-Gueuze.html" data-city="8" class="city-link">Тюмень</a><a href="https://rostov.winestyle.ru/products/Lindemans-Gueuze.html" data-city="9" class="city-link">Ростов-на-Дону</a><a href="https://krasnodar.winestyle.ru/products/Lindemans-Gueuze.html" data-city="10" class="city-link">Краснодар</a><a href="https://winestyle.ru/products/Lindemans-Gueuze.html" data-city="1" class="city-link">Москва</a><a href="/pages/for_investors.html" class="city-link for_investors_link">Сотрудничество</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	<div class="header-to-fix">
+		<div class="header-desktop">
+	<div class="header-middle clearfix">
+		<div class="container container-fluid">
+			
+			<div class="logo-container">				
+				<div class="warning warning-header" role="tooltip">
+					<span>18+</span>
+					<div class="warning-content">Содержание сайта предназначено для лиц старше 18 лет</div>
+				</div>
+			
+				<a href="https://spb.winestyle.ru/">
+					<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base="https://s.wine.style/templates/default/StylesNew/images/" data-src=">0:logo.svg" alt="WineStyle" height="1" class="resetheight" style="opacity: 0" />
+				</a>
+			</div>
+			<div class="header-middle-right user-logged">
+				<div class="header-middle-wrapper">				
+					<div class="search-wrapper" role="search">
+						<form data-mobile-move="search-container" class="search-container">
+							<div class="input-container">
+								<span title="Нажмите для поиска в конкретном разделе" class="section-name visible " data-group="" data-group-temp="37" data-name="Пиво">Все разделы</span>
+								<input type="search" placeholder="Поиск по каталогу"  maxlength="100" /><span class="icon icon-remove"></span>
+								<div class="search-suggestions">
+									<ul></ul>
+								</div>
+							</div>
+							<button type="submit">Найти</button>
+							<div class="search-info"><span>Например:</span><a  >виски на качелях</a><a  >хенеси</a></div>
+						</form>
+					</div>
+					<div class="user-wrapper">
+						<div class="user-container">
+							<a href="https://spb.winestyle.ru/pages/bestsellers.html" class="small col-bordo">Бестселлеры</a>
+							<div class="user-block">
+								<div class="has-dropdown-user has-dropdown has-dropdown-hover">									
+                                    <a href="https://spb.winestyle.ru/private_office/orders/" class="link-dropdown lk-name-account-lg"  id="lk">Вход</a>
+									<ul class="dropdown">
+										<li class="hidden-md"><span>Избранное <span class="col-gray-light fs-10">0</span></span></li>
+										<li class="lk-section hidden"><a href="https://spb.winestyle.ru/private_office/orders/">Заявки</a></li><li class="lk-section hidden"><a href="https://spb.winestyle.ru/private_office/profile/">Профиль</a></li><li class="lk-section hidden"><a href="https://spb.winestyle.ru/private_office/marks/">Оценки</a></li><li class="lk-section hidden"><a href="https://spb.winestyle.ru/private_office/waitprods/">Узнать о поступлении</a></li><li class="header-logout hidden"><a >Выйти</a></li><li class="header-login"><a >Вход</a></li><li class="header-reg"><a >Регистрация</a></li>
+									</ul>
+								</div>
+								<div class="has-dropdown-favourites has-dropdown has-dropdown-hover">
+									<span class="link-dropdown">
+										<span class="icon favourites-icon">
+											<span class="bage wishlist-cnt" style="visibility: hidden">0</span>
+										</span>
+										Избранное
+									</span>
+									<ul class="dropdown">
+										<li  class="is-empty"  >
+	Вы еще ничего не добавили в избранное
+</li>
+									</ul>
+								</div>
+							</div><!-- пробел не допускать --><div class="basket-block has-dropdown has-dropdown-hover"><a href="https://spb.winestyle.ru/cart.php" class="icon basket-icon link-dropdown"><span class="mobile-hidden di-b">Корзина</span><span class="bage" style="visibility: hidden">0</span></a>
+								<div class="dropdown dropdown-basket">
+	<div class="basket-list">
+		<div class="basket-item basket-item-empty" >
+	Ваша корзина пуста
+</div>
+
+	</div>
+	<div class="basket-total"  style="display:none">
+		<div class="basket-total-row">
+			<span class="text hidden-md">Ваша скидка:</span><span class="sum hidden-md"></span>
+		</div>
+		<div class="basket-total-row">
+			<span class="text">Итого:</span><span class="sum">0 <span>руб.</span><span class="meta"></span></span>
+		</div>
+	</div>
+	<a href="https://spb.winestyle.ru/cart.php" class="button button-yellow basket-button-checkout"  style="display:none">Перейти в корзину</a>
+	<a href="https://spb.winestyle.ru/checkout.php" class="button button-bordered-l-gray"  style="display:none" >Оформить заявку</a>
+</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		<div class="header-bottom">
+    <nav class="container container-fluid" role="navigation">
+		<div class="menu-catalog-block-icon">
+			<div class="link-dropdown">
+				<span class="icon burger-icon"></span>
+				<span class="mobile-hidden di-b">Все товары</span>
+				<span class="mobile-only di-b">Каталог</span>
+			</div>
+			<div class="menu-catalog-block-mob">
+				<ul>
+					<li><a href="/wine/">Вино</a></li>
+					<li><a href="/champagnes-and-sparkling/">Шампанское и игристое</a></li>
+					<li><a href="/whisky/">Виски</a></li>
+					<li><a href="/cognac/">Коньяк</a></li>
+					<li><a href="/spirit/">Крепкие напитки</a></li>
+					
+				</ul>
+				<span class="menu-open link-dropdown"></span>
+			</div>
+		</div>
+		<div data-mobile-move="menu-catalog-block">
+			<div class="menu-catalog-block has-dropdown">
+				<div class="link-dropdown">
+					<span class="icon burger-icon"></span>
+					<span class="mobile-hidden di-b">Все товары</span>
+					<span class="mobile-only di-b">Каталог</span>
+				</div>	
+				<div class="menu-catalog-block-mob">
+					<ul>
+						<li><a href="/wine/">Вино</a></li>
+						<li><a href="/champagnes-and-sparkling/">Шампанское и игристое</a></li>
+						<li><a href="/whisky/">Виски</a></li>
+						<li><a href="/cognac/">Коньяк</a></li>
+						<li><a href="/spirit/">Крепкие напитки</a></li>
+					</ul>
+					<span class="menu-open link-dropdown"></span>
+				</div>		
+				<div data-header="menu-dropdown" class="dropdown"></div>
+			</div>
+			<div class="nav menu-container"><span class="link-permanent"></span>
+				<ul class="menu menu-main clearfix">
+					<li data-header="menu-sublevel-wine" class="has-sublevel">
+	<a href="/wine/" >Вино</a>
+	
+</li><li data-header="menu-sublevel-champagnes-and-sparkling" class="has-sublevel">
+	<a href="/champagnes-and-sparkling/" >Шампанское</a>
+	
+</li><li data-header="menu-sublevel-whisky" class="has-sublevel">
+	<a href="/whisky/" >Виски</a>
+	
+</li><li data-header="menu-sublevel-cognac" class="has-sublevel">
+	<a href="/cognac/" >Коньяк</a>
+	
+</li><li data-header="menu-sublevel-beer" class="has-sublevel">
+	<a href="/beer/" >Пиво</a>
+	
+</li><li data-header="menu-sublevel-liqueur" class="has-sublevel">
+	<a href="/liqueur/" >Ликер</a>
+	
+</li><li data-header="menu-sublevel-vodka" class="has-sublevel">
+	<a href="/vodka/" >Водка</a>
+	
+</li><li data-header="menu-sublevel-water" class="has-sublevel">
+	<a href="/water/" >Вода</a>
+	
+</li><li data-header="menu-sublevel-wine-set" class="has-sublevel">
+	<a href="/wine-set/" >Наборы и подарки</a>
+	
+</li><li data-header="menu-sublevel-glass" class="has-sublevel">
+	<a href="/glass/" >Бокалы</a>
+	
+</li><li data-header="menu-sublevel-accessory" class="has-sublevel">
+	<a href="/accessory/" >Аксессуары</a>
+	
+</li><li data-header="menu-sublevel-rum" class="has-sublevel">
+	<a href="/rum/" >Ром</a>
+	
+</li>
+				</ul>
+			</div>			
+		</div>
+    </nav>
+</div>
+		
+	</div>
+</header>
+<div class="background-mask"></div>
+		<div class="main-wrapper ">
+			<div class="container container-fluid product" itemscope itemtype="http://schema.org/Product"  role="main">
+				<div class="main-content main-content-item">		
+					<div class="main-header" >
+						<div class="search_keywords" style="display:none;"></div>
+<ul class="breadcrumbs breadcrumbs-sm"><li class="">
+    <a href="/beer/"   class="breadcrumb-item">Пиво</a>
+    
+</li></ul>
+						<h1>Пиво "Lindemans" Gueuze, 250 мл</h1>
+<meta itemprop="name" content="Пиво &quot;Lindemans&quot; Gueuze, 250 мл"/>
+<div class="meta">
+    <span class="bg-text" title="Артикул"><span class="sku">Артикул:</span>в79600</span>
+    <span class="text">"Линдеманс" Гёз, 0.25 литра</span>
+</div>
+
+<div class="analytics-data"  data-id='79600' data-name='Пиво \"Lindemans\" Gueuze, 250 мл' data-price='159' data-category='' data-brand='Lindemans' data-list='Продуктовая' data-position='1' data-quantity=''></div>
+<div data-mobile-container="info-block" class="mobily-only"></div>
+						
+						
+					</div>
+					<div class="item-content">
+						<div class="left-aside left-aside_no-bg">
+  <a itemprop="image" class="img-container fancybox "  href='https://s.wine.style/images_gen/796/79600/0_0_orig.jpg'  title="Lindemans Gueuze" rel="group">
+	<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<768:796/79600/0_0_prod_mob.jpg?h=250, >767:796/79600/0_0_prod_desktop.jpg?h=643' data-zoom-image="https://s.wine.style/images_gen/796/79600/0_0_orig.jpg" title="Lindemans Gueuze" class="preload" style="opacity: 0" />
+<noscript><img alt="На фото изображение Lindemans Gueuze, 0.25 L (Линдеманс Гёз объемом 0.25 литра)" src='https://s.wine.style/images_gen/796/79600/0_0_prod_desktop.jpg' /></noscript>
+</a>
+<div class="small-images"  style='display: none;'>
+	
+</div>
+
+ </div>
+						<div class="right-aside">
+						   <div class="item-block item-block-single  ">
+							
+							
+							
+							<div class="right-info">
+	<div class="price-container ">
+    <span itemprop="offers" itemscope itemtype="http://schema.org/Offer"><meta itemprop="price" content="159"/><meta itemprop="priceCurrency" content="RUB"/><link itemprop="availability" href="http://schema.org/InStock"></span>
+	<div class="word-price" >Цена</div><div class='price '>159 <span>руб.</span></div>
+	
+				
+		
+	
+</div>
+		<form  class="form-add-cart" data-prodid="79600" data-numprodscart="6">
+	  <div class="input-container input-container-lg select-input-change">
+            <select  class="select-gray-bordered select-lg" >
+<option  value="6" >6</option><option  value="12" >12</option><option  value="18" >18</option><option  value="24" >24</option><option  value="30" >30</option><option  value="36" >36</option><option  value="42" >42</option><option  value="48" >48</option><option  value="54" >54</option><option  value="60" >60</option><option  value="66" >66</option><option  value="72" >72+</option>
+</select><input type="number"  data-releasedby="6" data-oldqty="6"  class="input-bordered"  value="6"  />	
+	  </div>
+	  <span class="text">шт.</span>
+	  <button type="button" title="Нажмите здесь, чтобы добавить этот товар в корзину" class="button button-yellow button-lg basket "  >В корзину</button>
+	</form>	
+	<div data-mobile-container="favourite" class="mobile-only"></div>
+	<div class="right-info-bottom">
+	  <div class="title prod-remaind-info"  ></div>
+	  <div class="title condition  col-red "  data-hover="Ожидание около 5 дней."  data-avail="avail5"  data-not-shops="1">в наличии</div>
+	  
+	  <p class="meta fs-12 ">Наличие в магазинах</p>
+<address><ul class="list-stock-dropdown"><li  class="has-dropdown" >
+	<a  class="link-dropdown">
+		<span class="dot  dot-question" ></span>
+		ул. Гаврская <sup class="is-new" style='display:none;'>New </sup>&mdash;
+		<span class="col-gray-light">под заказ</span>
+	</a>
+	<div class="dropdown">
+		<a class="address-item" href="/gavrskaya-shop/">
+			<span>
+				<span class="col-gray-light">Адрес:</span>
+				Санкт-Петербург, ул. Гаврская, д.2, лит. А, пом. 8-Н
+			</span>
+			<span class="meta"><span class="first"  >пн-вс 12:00 - 22:00</span></span>
+			<span class="meta">Уточняйте наличие по тел. +7 (812) 553-33-42</span>			
+		</a>
+	</div>
+</li><li  class="has-dropdown" >
+	<a  class="link-dropdown">
+		<span class="dot  dot-question" ></span>
+		ул. Лесной проспект <sup class="is-new" style='display:none;'>New </sup>&mdash;
+		<span class="col-gray-light">под заказ</span>
+	</a>
+	<div class="dropdown">
+		<a class="address-item" href="/lesnoy-shop/">
+			<span>
+				<span class="col-gray-light">Адрес:</span>
+				Санкт-Петербург, Лесной пр., д. 8
+			</span>
+			<span class="meta"><span class="first"  >пн-вс 11:00 - 21:00</span></span>
+			<span class="meta">Уточняйте наличие по тел. +7 (812) 542-39-72</span>			
+		</a>
+	</div>
+</li><li  class="has-dropdown" >
+	<a  class="link-dropdown">
+		<span class="dot  dot-question" ></span>
+		ул. Московский проспект <sup class="is-new" >New </sup>&mdash;
+		<span class="col-gray-light">под заказ</span>
+	</a>
+	<div class="dropdown">
+		<a class="address-item" href="/moskovsky-shop/">
+			<span>
+				<span class="col-gray-light">Адрес:</span>
+				Санкт-Петербург, Московский проспект, д. 73, к. 5
+			</span>
+			<span class="meta"><span class="first"  >пн-вс 11:00 - 22:00</span></span>
+			<span class="meta">Уточняйте наличие по тел. +7 (812) 679-26-18</span>			
+		</a>
+	</div>
+</li></ul></address>
+	</div>
+	<div class="btns-block">
+	<div ><a   id="fav79600" class="favorite    printhide">
+	В избранное
+</a></div>
+	<div ><span class="link-related"  >Найти похожие</span></div>
+</div>
+	<div class="advantages">
+  <div class="advantages-block" >
+	<span class="icon icon-security"></span>
+	<span class="text">
+		Надежная покупка
+		<span class="fs-i"  ></span> 
+	</span>
+  </div>
+  <div class="advantages-block">
+	  <span class="icon icon-warranty"></span>
+	  <span class="text">Гарантия качества</span>
+  </div>
+  <div class="advantages-block" >
+	  <span class="icon icon-visa"></span>
+	  <span class="text">Visa, MasterCard</span>
+  </div>
+</div>
+</div>
+
+
+<div class="main-info">
+	
+	
+
+	<div class="info-block rating-text rating-text-big "  data-mobile-move="info-block"  itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" data-cntreviews="" >
+	<meta itemprop="itemReviewed" content="Пиво &quot;Lindemans&quot; Gueuze, 250 мл" />
+				  <meta itemprop="worstRating" content="1" />
+				  <meta itemprop="ratingValue" content="9.7" />
+				  <meta itemprop="bestRating" content="10" />
+				  <meta itemprop="reviewCount" content="3" />
+<span class="text">9.7</span>
+<div class="rating-info" >
+	<span class="name">Рейтинг WineStyle:</span>
+	<div class="stars-block" data-prodid="79600"><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span></div>
+	
+</div>	
+<a class="link-green" >3</a>		
+</div>
+	<div class="rating-block has-hidden-blocks" data-mobile-move="info-block">
+	<span class="name">Рейтинги и награды:</span>
+	<div class="rating-item" >
+	<div class="rating-name rat  PointsRB" >
+		<span>RB</span>
+		<span>50</span>
+	</div>
+</div> <div class="rating-item" >
+	<div class="rating-name rat  PointsBA-100" >
+		<span>BA-100</span>
+		<span>80</span>
+	</div>
+</div> 
+</div>
+
+<ul class="list-description list-description-lined">
+	<li class="printhide"><div class="info-block panel-gray BoxAttention">
+	<span class="col-red">Этот товар продаётся по 6 штук.</span>
+	<span class="fs-i">Цена указана за штуку</span>
+</div></li>
+	<li >
+	<span class="name">Пиво:</span>
+	<div class="links">
+	<a href="/beer/medium/"  >Средне-светлое</a>,  <a href="/beer/unfiltered/"  >Нефильтрованное</a>
+	</div>
+</li><li >
+	<span class="name">Стиль:</span>
+	<div class="links">
+	<a href="/beer/ale/"  >Эль</a>, <a href="/beer/gueuze/"  >Гёз</a>, <span class="ll_link"  data-href="/beer/belgianfrenchales_ll/">Бельгийский / Французский Эль</span>
+	</div>
+</li><li >
+	<span class="name">Регион:</span>
+	<div class="links">
+	<a href="/beer/belgium/"  >Бельгия</a>
+	</div>
+</li><li >
+	<span class="name">Производитель:</span>
+	<div class="links">
+	<a href="/beer/brouwerij-lindemans/"  >Brouwerij Lindemans</a>
+	</div>
+</li><li >
+	<span class="name">Бренд:</span>
+	<div class="links">
+	<a href="/beer/lindemans/"  >Lindemans</a>
+	</div>
+</li><meta itemprop="manufacturer" content="Brouwerij Lindemans"/><meta itemprop="brand" content="Lindemans"/><li >
+	<span class="name">Тип ферментации:</span>
+	<div class="links">
+	<a href="/beer/top-fermenting/"  >Верховое брожение</a>
+	</div>
+</li><li >
+	<span class="name">Крепость:</span>
+	<div class="links">
+		<span>4.5%</span>
+	</div>
+</li><li >
+	<span class="name">Объем:</span>
+	<div class="links">
+	<a href="/beer/250ml/"  >250 мл</a>
+	</div>
+</li>
+	<li class="printhide"></li>
+</ul>
+    
+	
+	
+ 		
+	 
+
+
+
+
+	
+
+	
+
+
+</div>
+						   </div>
+						</div>
+					</div>
+					<div class="item-content item-content_second item-content_no-js">
+						  <div class="left-aside">
+							  <div class="left-aside-block">
+								<div class="right-info-bottom desktop-only fsrartxt ad" style="">
+  <span class="ptext"  >ООО «Винограция», ИНН: 7802315248, лицензия: серия 78 АА, №002379, регистрационный №78РПА0001789 от 06.05.2011, ОГРН: 1057810043983, 194017, Санкт-Петербург, ул. Гаврская, д.2, лит. А, пом.8-Н</span><span class="ptext"  >ООО «Винограция», ИНН: 7802315248, лицензия: серия 78 АА, №002379, регистрационный №78РПА0001789 от 06.05.2011, ОГРН: 1057810043983, г. Санкт-Петербург, Лесной пр., д. 8, лит. А, пом. 5-Н</span><span class="ptext"  >ООО «Винограция», ИНН: 7802315248, лицензия: 78 АА 0017572 рег № 78 РПА 0001789, действует с 06.11.2020 по 05.05.2022, ОГРН: 1057810043983, 194017, Санкт-Петербург, ул. Гаврская, д.2, лит. А, пом.8-Н</span> <span class="ptext v2">Отгрузка продукции юридическим лицам осуществляется в соответствии с действующим законодательством.</span> <div id="yandex_rtb_R-A-222661-2"><rtb><span class="ptext v2">В соответствии с рекомендациями ФС РАР от 25.06.18 уведомляем: алкогольная продукция может быть приобретена в <a href="https://spb.winestyle.ru/pages/contacts.html" >магазинах сети WineStyle</a>.</span></rtb></div>
+</div>
+<div class="call-block">
+  <div class="info-container">
+	 <div class="title desktop-hidden">Консультации по телефону</div>
+	 <a href="tel:+78126271315" class="phone">+7&nbsp;(812)&nbsp;627-13-15</a>
+	 <strong>Звоните</strong>
+	 <div class="text">Наш винный консультант (сомелье) поможет подобрать вино к столу или в подарок. А также ответит на любой ваш вопрос по винам.</div>
+	 <a class="button button-sm button-brown" >Заказать звонок</a>
+  </div>
+</div>
+							    <div class="right-sidebar-block">
+	<h4 class="ff-g">Интересные разделы:</h4>
+	<div class="sidebar-panel">
+		<ul class="list-links">
+			<li><a href="/beer/brouwerij-lindemans/">Пиво от Пивоварня Линдеманс</a></li>
+		</ul>	
+	</div>
+</div>
+                                
+							  </div>						  
+						  </div>							  
+						  <div class="right-aside">	
+							   
+							     <div  id="reviews-block" class="reviews-block prProdPage">
+	<div class="review-top collapsible-block">
+	  <span winestyle-collapse="next-all" collapse-mobile-sm="true" class="title collapse-title active">Отзывы о покупке "Lindemans" Gueuze, 250 мл <span class="small"></span></span>
+	  <div class="review-container collapse-content opened">
+	  	
+		<div class="jcarousel-wrapper">
+		  <div class="jcarousel jcarousel-xxl">
+			<div class="jcarousel-list" role="slider">
+				<div class="review-block-page" ><div class="review-block  " itemprop="review" itemscope itemtype="http://schema.org/Review">
+	<span class="name">Eugenii Plyah</span>
+	<div class="rating-text"><span class="text">10</span>
+<div class="stars-block" data-prodid="79600"><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span><span class="icon icon-star"></span></div>		</div>
+    <div class="meta">
+		<span class="date">04.05.2019</span>
+		<meta itemprop="author" content="Eugenii Plyah" />
+		<meta itemprop="datePublished" content="2019-05-04" />
+		<meta itemprop="itemReviewed" content="Пиво &quot;Lindemans&quot; Gueuze, 250 мл" />
+	</div>
+	
+	<div  class="text ">
+		<p itemprop="reviewBody">Если ищете кисляк то это то что надо!</p>
+    </div>
+	
+	
+</div></div>
+			</div>
+		  </div>
+		  <div class="jcarousel-navigation has-pagination"></div>
+		</div>
+		<a href="/products/Lindemans-Gueuze.html/reviews"  class="button button-lgrey">Читать все отзывы о товаре</a><a data-prodid="79600" class="button button-white reviewFormBtn">Оценить и оставить отзыв</a></div>
+	</div>
+	
+  </div>				
+							   	<div class="articles-container articles-col collapsible-block notes opened-half" >
+		<h2 winestyle-collapse="next-all" collapse-mobile-sm="true"  class="collapse-title ">Дегустационные заметки</h2>
+		<div class="collapse-content">
+		   <div class="description-block" >
+	<span class="title">Цвет</span>
+	<p>Пиво золотистого цвета с медным отливом.</p>
+</div>
+<div class="description-block" >
+	<span class="title">Вкус</span>
+	<p itemprop="description">Во вкусе пива доминируют оттенки хереса, уравновешенные приятной кислинкой и нюансами шампанского и ревеня.</p>
+</div>
+<div class="description-block" >
+	<span class="title">Аромат</span>
+	<p>В свежем аромате пива тона хереса переплетаются с фруктовыми нотками.</p>
+</div>
+<div class="description-block" >
+	<span class="title">Гастрономические сочетания</span>
+	<p>Пиво подается к рыбе, моллюскам, мясу птицы (цыпленка, индейки) и нежирной свинине.</p>
+</div>
+		</div>
+	</div>
+	<div class="articles-container collapsible-block desc opened-half"  >
+		<h2 winestyle-collapse="next-all" collapse-mobile-sm="true"  class="collapse-title ">Интересные факты</h2>
+		<div  class="description-block collapse-content"><p><b class="bs-fs-bold">&quot;Lindemans&quot; Gueuze</b> &mdash; классический представитель бельгийского пива Гёз. Существует несколько теорий относительно необычного названия этого сорта. Первая утверждает, что оно происходит от брюссельской улицы Rue de Gueuze, где один пивовар решил продавать свой оригинальный сорт ламбика в бутылках из-под игристого вина. Другая же гласит, что Гёз &mdash; бельгийский вариант французского слова &quot;gazeux&quot; (газированный), так как это пиво отличается от других ламбиков повышенной газацией.</p>
+
+<p>&quot;Линдеманс&quot; Гёз &mdash; более сладкая версия <a href="/products/Lindemans-Old-Gueuze-Cuvee-Rene.html" target="_blank">Old Gueuze Cuvee Rene</a>. Пиво отличается приятным сладко-сухим вкусом и освежающей кислинкой на финише. Тона хереса доминируют в его вкусе и аромате, они подчеркнуты характерными оттенками игристого вина. Это пиво составит хорошую&nbsp;пару рыбе под сливочным соусом, мидиям, мясу птицы (цыпленка, индейки).</p>
+</div>
+	</div>
+	
+	<div class="articles-container collapsible-block manufacturer-desc"  >
+		<h2 winestyle-collapse="next-all" collapse-mobile-sm="true"  class="collapse-title ">О производителе</h2>
+		<div  class="description-block collapse-content"><p><b class="bs-fs-bold">Brouwerij Lindemans</b> &mdash; семейное предприятие, ведущее историю с 1822 г. Семейство Линдеманс владело землями на месте современной пивоварни задолго до ее основания, выращивая пшеницу, ячмень и хмель. Предки современных владельцев начали варить пиво сначала для семейных нужд, после &mdash; для потребностей всего городка. Со временем пивоварение стало основным занятием семьи,&nbsp;так и возникла Brouwerij Lindemans.</p>
+
+<p>Пивоварня расположена в долине Сенны в небольшом городке Флезенбеек, в сердце региона Пайоттенланд. Это месторасположение во многом определяет качество и способ приготовления пива бренда &quot;Линдеманс&quot; &mdash; воздух долины Сенны насыщен специфической микрофлорой, микроскопическими штаммами дрожжей Brettanomyces Bruxellensis и Brettanomyces Lambicus.&nbsp;</p>
+
+<p>Эти редкие разновидности дрожжей позволяют производить пиво методом спонтанного, или &quot;дикого&quot; сбраживания. Пивовары не добавляют искусственно выращенные дрожжи в напиток, достаточно тех, которые поселились на хмеле и зерновых в процессе их роста. Традиция &quot;дикого&quot; сбраживания сделала пиво Линдеманс знаменитым, она не прекращается на пивоварне вот уже 200 лет.</p>
+</div>	
+	</div>
+	<div class="tags-container">	
+		<div class="articles-container collapsible-block" >
+		  <h2 winestyle-collapse="next-all" collapse-mobile-sm="true" class="collapse-title mobile-only">Характеристики</h2>
+			
+<ul class="list-characteristics collapse-content">
+	<li >
+	<span class="name">
+		<span>Температура сервировки:</span>
+	</span>
+	2–6 °С
+</li><li >
+	<span class="name">
+		<span>Состав:</span>
+	</span>
+	ячмень, хмель
+</li><li >
+	<span class="name">
+		<span>Вид:</span>
+	</span>
+	<a href="/beer/medium_strength/"  >Средней крепости (4,3-5,9%)</a>
+</li><li >
+	<span class="name">
+		<span>Тип ёмкости:</span>
+	</span>
+	<a href="/beer/bottle/"  >Бутылка</a>
+</li><li >
+	<span class="name">
+		<span>Сайт производителя:</span>
+	</span>
+	<a href="http://lindemans.be" class="text" target="_blank">http://lindemans.be</a>
+</li>
+</ul>
+		</div>
+			<div class="articles-container collapsible-block"  >
+		<h3 winestyle-collapse="next-all" collapse-mobile-sm="true" class="collapse-title">Метки</h3>
+		  <div class="collapse-content">
+			<div class="tag-block"  >
+			  <span class="name">Вкус</span>
+				<ul class="tags-list"><li><a href="/beer/tag_sherry/"  >херес</a></li><li><a href="/beer/tag_slight-acidity/"  >кислинка</a></li><li><a href="/beer/tag_rhubarb/"  >ревень</a></li></ul>
+			</div>
+			<div class="tag-block"  >
+			  <span class="name">Подходит к</span>
+				<ul class="tags-list"><li><a href="/beer/with-poultry/"  >птица</a></li><li><a href="/beer/with-fish/"  >рыба</a></li><li><a href="/beer/with-pork/"  >свинина</a></li><li><a href="/beer/with-chicken/"  >курица</a></li><li><a href="/beer/with-turkey/"  >индейка</a></li><li><a href="/beer/with-molluscs/"  >моллюски</a></li></ul>
+			</div>
+		  </div>
+	</div>	
+		
+	</div>
+
+	<div class="social-block info-block">
+  <ul class="list-social dark">
+	<li>
+	  <a target="blank" title="Опубликовать на Фейсбук" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fspb.winestyle.ru%2Fproducts%2FLindemans-Gueuze.html" class="icon icon-fb"></a>
+	</li>
+	<li>
+	  <a href="https://vk.com/share.php?url=http%3A%2F%2Fspb.winestyle.ru%2Fproducts%2FLindemans-Gueuze.html" title="Опубликовать Вконтакте" target="_blank" class="icon icon-vk"></a>
+	</li>	
+	<li>
+	  <a target="_blank" href="https://twitter.com/home?status=RT%20@winestyleru%20%D0%9F%D0%B8%D0%B2%D0%BE+%22Lindemans%22+Gueuze+%E2%80%94+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B2+%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5+Winestyle.ru+%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3:%20http%3A%2F%2Fspb.winestyle.ru%2Fproducts%2FLindemans-Gueuze.html" title="Опубликовать в Твиттер" class="icon icon-tw"></a>
+	</li>
+	<li>
+		<a target="_blank" title="Опубликовать в Мой Мир" href="https://connect.mail.ru/share?share_url=http%3A%2F%2Fspb.winestyle.ru%2Fproducts%2FLindemans-Gueuze.html" class="icon icon-mm"></a>
+	</li>
+	<li>
+		<a href="https://www.livejournal.com/update.bml?event=http%3A%2F%2Fspb.winestyle.ru%2Fproducts%2FLindemans-Gueuze.html&amp;subject=%D0%9F%D0%B8%D0%B2%D0%BE+%22Lindemans%22+Gueuze+%E2%80%94+%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%B2+%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5+Winestyle.ru+%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" target="_blank" title="Опубликовать в своем блоге livejournal.com" class="icon icon-lj"></a>
+	</li>	
+  </ul>
+</div>
+	
+		 						  
+						  </div>
+					</div>					
+					<div class="related-items-single collapsible-block" id="related-items-single" >
+	<h3 winestyle-collapse="next-all" collapse-mobile-sm="true" class="title collapse-title">Похожие на "Lindemans" Gueuze, 250 мл</h3>
+	<div class="collapse-content">
+		<div class="related-items-single-container">
+			<div class="items-col-view-sm">
+				<form class="item-block item-block-sm" data-prodid="142370" >
+		<span class="icon-remove"></span>
+		<span class="rating-text" title="Рейтинг WineStyle">
+	<span class="text">8.0</span>
+	<span class="icon icon-star"></span>
+</span>
+		<div class="img-block">
+			<a href="https://spb.winestyle.ru/products/Lefebvre-Blanche-de-Bruxelles-Rosee.html"  title="Узнать больше о Lefebvre, 'Blanche de Bruxelles' Rosee, 0.33 л" ><img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<768:142/142370/0_0_prod_similar.jpg?h=180,>767:142/142370/0_0_prod_similar.jpg?h=180'   style="opacity: 0" />
+<noscript><img  alt="Lefebvre, Blanche de Bruxelles Rosee, 0.33 л" src='https://s.wine.style/images_gen/142/142370/0_0_prod_similar.jpg' /></noscript></a>
+		</div>
+		<p class="title">
+			<a href="https://spb.winestyle.ru/products/Lefebvre-Blanche-de-Bruxelles-Rosee.html" title="Lefebvre, 'Blanche de Bruxelles' Rosee, 0.33 л">Lefebvre, "Blanche de Bruxelles" Rosee, 0.33 л</a>
+		</p>
+		<div class="rating-block"> </div>
+		<div class="price-container ">
+			<div class='price '>261 <span>руб.</span></div>
+		</div>
+		<button class="button button-yellow basket quantity-button" data-numprodscart="12" data-add="cart" >В корзину</button>
+		<div class="quantity ">
+			<div class="decrease value-button">&minus;</div>
+			<input type="number" value="0" class="number" oldval="0" data-releasedby="12" />
+			<div class="increase value-button ">+</div>
+		</div>
+		<a id="fav142370" class="favourite-icon "><span class="icon"></span></a>
+		<div class="analytics-data"  data-id='142370' data-name='Lefebvre, \"Blanche de Bruxelles\" Rosee' data-price='261' data-category='Пиво' data-brand='Blanche de Bruxelles' data-list='Похожие продукты' data-position='1' data-quantity=''></div>
+</form><form class="item-block item-block-sm" data-prodid="79652" >
+		<span class="icon-remove"></span>
+		<span class="rating-text" title="Рейтинг WineStyle">
+	<span class="text">6.4</span>
+	<span class="icon icon-star"></span>
+</span>
+		<div class="img-block">
+			<a href="https://spb.winestyle.ru/products/Lindemans-Old-Gueuze-Cuvee-Rene.html"  title="Узнать больше о 'Lindemans' Oude Gueuze Cuvee Rene, 375 мл" ><img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<768:796/79652/0_0_prod_similar.jpg?h=180,>767:796/79652/0_0_prod_similar.jpg?h=180'   style="opacity: 0" />
+<noscript><img  alt="Lindemans Oude Gueuze Cuvee Rene, 375 мл" src='https://s.wine.style/images_gen/796/79652/0_0_prod_similar.jpg' /></noscript></a>
+		</div>
+		<p class="title">
+			<a href="https://spb.winestyle.ru/products/Lindemans-Old-Gueuze-Cuvee-Rene.html" title="'Lindemans' Oude Gueuze Cuvee Rene, 375 мл">"Lindemans" Oude Gueuze Cuvee Rene, 375 мл</a>
+		</p>
+		<div class="rating-block">  </div>
+		<div class="price-container ">
+			<div class='price '>375 <span>руб.</span></div>
+		</div>
+		<button class="button button-yellow basket quantity-button" data-numprodscart="6" data-add="cart" >В корзину</button>
+		<div class="quantity ">
+			<div class="decrease value-button">&minus;</div>
+			<input type="number" value="0" class="number" oldval="0" data-releasedby="6" />
+			<div class="increase value-button ">+</div>
+		</div>
+		<a id="fav79652" class="favourite-icon "><span class="icon"></span></a>
+		<div class="analytics-data"  data-id='79652' data-name='\"Lindemans\" Oude Gueuze Cuvee Rene' data-price='375' data-category='Пиво' data-brand='Lindemans' data-list='Похожие продукты' data-position='2' data-quantity=''></div>
+</form><form class="item-block item-block-sm" data-prodid="79559" >
+		<span class="icon-remove"></span>
+		<span class="rating-text" title="Рейтинг WineStyle">
+	<span class="text">8.8</span>
+	<span class="icon icon-star"></span>
+</span>
+		<div class="img-block">
+			<a href="https://spb.winestyle.ru/products/Blanche-de-Namur-330.html"  title="Узнать больше о 'Blanche de Namur', 0.33 л" ><img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<768:795/79559/0_0_prod_similar.jpg?h=180,>767:795/79559/0_0_prod_similar.jpg?h=180'   style="opacity: 0" />
+<noscript><img  alt="Blanche de Namur, 0.33 л" src='https://s.wine.style/images_gen/795/79559/0_0_prod_similar.jpg' /></noscript></a>
+		</div>
+		<p class="title">
+			<a href="https://spb.winestyle.ru/products/Blanche-de-Namur-330.html" title="'Blanche de Namur', 0.33 л">"Blanche de Namur", 0.33 л</a>
+		</p>
+		<div class="rating-block"> </div>
+		<div class="price-container ">
+			<div class='price '>210 <span>руб.</span></div>
+		</div>
+		<button class="button button-yellow basket quantity-button" data-numprodscart="6" data-add="cart" >В корзину</button>
+		<div class="quantity ">
+			<div class="decrease value-button">&minus;</div>
+			<input type="number" value="0" class="number" oldval="0" data-releasedby="6" />
+			<div class="increase value-button ">+</div>
+		</div>
+		<a id="fav79559" class="favourite-icon "><span class="icon"></span></a>
+		<div class="analytics-data"  data-id='79559' data-name='\"Blanche de Namur\"' data-price='210' data-category='Пиво' data-brand='Blanche de Namur' data-list='Похожие продукты' data-position='3' data-quantity=''></div>
+</form>
+			</div>
+		</div>
+		<span class="show-more-related">Показать ещё</span>
+	</div>
+</div>
+					<div class="slider-wrapper collapsible-block history-container" none>
+  <div winestyle-collapse="next-all" collapse-mobile-sm="true" class="title collapse-title">Недавно просмотренные</div>
+  <div class="items-col-view-sm collapse-content">
+	<div class="jcarousel-wrapper">
+	  <div class="jcarousel jcarousel-lg">
+		<div class="jcarousel-list">
+			
+		</div>
+	  </div>
+	  <div class="jcarousel-navigation"></div>
+	</div>
+  </div>
+</div>
+					
+					<div class="fsrartxt mobile-only" ><span class="ptext"  >ООО «Винограция», ИНН: 7802315248, лицензия: серия 78 АА, №002379, регистрационный №78РПА0001789 от 06.05.2011, ОГРН: 1057810043983, 194017, Санкт-Петербург, ул. Гаврская, д.2, лит. А, пом.8-Н</span><span class="ptext"  >ООО «Винограция», ИНН: 7802315248, лицензия: серия 78 АА, №002379, регистрационный №78РПА0001789 от 06.05.2011, ОГРН: 1057810043983, г. Санкт-Петербург, Лесной пр., д. 8, лит. А, пом. 5-Н</span><span class="ptext"  >ООО «Винограция», ИНН: 7802315248, лицензия: 78 АА 0017572 рег № 78 РПА 0001789, действует с 06.11.2020 по 05.05.2022, ОГРН: 1057810043983, 194017, Санкт-Петербург, ул. Гаврская, д.2, лит. А, пом.8-Н</span> <span class="ptext v2">Отгрузка продукции юридическим лицам осуществляется в соответствии с действующим законодательством.</span> <div id="yandex_rtb_R-A-222661-2"><rtb><span class="ptext v2">В соответствии с рекомендациями ФС РАР от 25.06.18 уведомляем: алкогольная продукция может быть приобретена в <a href="https://spb.winestyle.ru/pages/contacts.html" >магазинах сети WineStyle</a>.</span></rtb></div></div>
+					<div class="bottom-text" >В нашем магазине вы можете купить пиво "Линдеманс" Гёз, 250 мл, цена "Lindemans" Gueuze, 250 мл &mdash; 159 руб.. Производитель пива Пивоварня Линдеманс.</div>		
+				</div>
+			</div>
+		</div>
+		
+<footer class="sticky-footer">
+	<div class="container container-fluid">
+		<div class="footer-top">
+			<div class="footer-top-overlay">
+				<div class="footer-top-left">
+					<div class="footer-top-visible">
+						<div class="nav-block">
+							<ul class="menu menu-footer">
+								<li><a class="title">Покупка</a></li>
+								<li><a href="https://spb.winestyle.ru/pages/corporate.html">Корпоративным клиентам</a></li>
+								<li><a href="https://spb.winestyle.ru/pages/delivery.html">Покупка и оплата</a></li>
+								
+								<li><a href="https://spb.winestyle.ru/pages/contacts.html">Консультации</a></li>
+								<li><a class="ordSt">Статус заявки</a></li>
+								
+								<li><a href="https://spb.winestyle.ru/pages/warranty.html">Гарантии</a></li>
+								<li><a href="https://spb.winestyle.ru/gift-pack/">Подарочная упаковка</a></li>
+							</ul>
+						</div>					
+						<div class="nav-block">
+							<ul class="menu menu-footer">
+								<li><a class="title title_logo">О WineStyle</a></li>
+								<li><a href="https://spb.winestyle.ru/pages/contacts.html">Контакты и адреса</a></li>
+								<li><a href="https://spb.winestyle.ru/pages/about.html">О компании</a></li>
+								<li><a href="https://spb.winestyle.ru/pages/oneday.html">Один день из жизни WineStyle</a></li>								
+								
+								<li><a href="https://spb.winestyle.ru/pages/for_investors.html">Инвесторам</a></li>
+								
+								<li><a href="https://spb.winestyle.ru/articles/">Блог Winestyle</a></li>
+							</ul>
+						</div>
+
+						<div class="nav-block">
+							<ul class="menu menu-footer">
+								<li><a class="title">Интересные разделы</a></li>
+								<li><a href="https://spb.winestyle.ru/pages/bestsellers.html">Бестселлеры</a></li>
+								<li><a href="https://spb.winestyle.ru/novelty/">Новинки</a></li>
+		<!-- 						<li><a href="/promo/discount/">Акции</a></li>
+								<li><a href="/wine/cheap-and-best/">Вина с рейтингом 80+ до 1000 руб</a></li>
+								<li><a href="/wine/90-rating/">Вина с рейтингом 90+ до 3000 руб</a></li> -->
+								<li><a href="https://spb.winestyle.ru/wine/inbox-packing/">Вино в подарочной коробке</a></li>
+								<li  >
+	<a  href="https://spb.winestyle.ru/pages/best_wine_of_2020.html" >Лучшие вина 2020 по версии WineStyle</a>
+</li>
+							</ul>						
+						</div>
+						<div class="nav-block">
+							<ul class="menu menu-footer">
+								<li><a class="title">Популярные разделы</a></li>
+								<li><a href="https://spb.winestyle.ru/cognac/france/">Французский коньяк</a></li>
+								<li><a href="https://spb.winestyle.ru/cognac/armenia/">Армянский коньяк</a></li>
+								<li><a href="https://spb.winestyle.ru/cognac/hennessy/">Hennessy</a></li>
+								<li><a href="https://spb.winestyle.ru/cognac/courvoisier/">Courvoisier</a></li>
+								<li><a href="https://spb.winestyle.ru/beer/czech/">Чешское пиво</a></li>
+								<li><a href="https://spb.winestyle.ru/beer/germany/">Немецкое пиво</a></li>
+								<li><a href="https://spb.winestyle.ru/beer/craft/">Крафтовое пиво</a></li>
+								
+							</ul>
+						</div>
+						<div class="nav-block">
+							<ul class="menu menu-footer">
+								<li><a class="title">Популярные разделы</a></li>
+								<li><a href="https://spb.winestyle.ru/whisky/scotland/">Шотландский виски</a></li>
+								<li><a href="https://spb.winestyle.ru/whisky/single-malt/">Односолодовый виски</a></li>
+								<li><a href="https://spb.winestyle.ru/whisky/bourbon/">Бурбон</a></li>
+								<li><a href="https://spb.winestyle.ru/whisky/jack-daniels/">Виски Jack Daniels</a></li>
+								<li><a href="https://spb.winestyle.ru/whisky/johnnie-walker/">Виски Johnnie Walker</a></li>
+								<li><a href="https://spb.winestyle.ru/rum/bacardi/">Ром Bacardi</a></li>
+								<li><a href="https://spb.winestyle.ru/liqueur/jagermeister/">Ликер Jagermeister</a></li>
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer-top-right">
+				<div class="phone-footer" ><a href="tel:+78126271315"   class="phone" >+7&nbsp;(812)&nbsp;627-13-15</a></div>
+				<div class="social-footer">								
+					<div class="social-block ">
+					  <ul class="list-social ">
+						<li><a target="blank" title="Winestyle в Facebook" href="https://www.facebook.com/pages/winestyleru/216215918410192" class="icon icon-fb"></a></li>
+						<li><a href="https://vk.com/winestyle" title="Winestyle в VKontakte" target="_blank" class="icon icon-vk"></a></li>	
+						<li><a target="_blank" href="https://twitter.com/WineStyle_ru" title="Winestyle в Twitter" class="icon icon-tw"></a></li>
+						<li><a target="_blank" title="Winestyle в Instagram" class="icon icon-insta" href="https://www.instagram.com/wine_style/"></a></li>
+						<li><a target="_blank" title="Winestyle в Pinterest" class="icon icon-pin" href="https://pinterest.ru/wine_style/"></a></li>
+					  </ul>
+					</div>									
+				</div>
+				<div class="form-container">
+					<p class="ff-g fs-12">Рассылка Winestyle</p>
+					<form class="form-email">
+						<input type="text" placeholder="Подписаться на Email рассылку" maxlength="254" />
+						<button type="submit">ОК</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="footer-bottom">
+			<div class="row">
+				<div class="col-sm-6">
+					<div class="country-block has-dropdown">
+	<div class="link-dropdown">
+		<span class="flag flag-ru"></span>
+		<span class="name">Россия</span>
+	</div>
+	<form class="radio-container-simple" method="POST">
+		<input type="hidden" name="from_country" value="6" class="currentcountry" />
+		<input type="hidden" id="need_redirect" name="need_redirect" value="1">	
+		<input type="hidden" name="no_confirm" value="1">
+		<ul class="dropdown">
+			<li data-phone="+7&nbsp;(495)&nbsp;662-87-63" data-name="Россия" data-country="1">
+	<a href="https://winestyle.ru/products/Lindemans-Gueuze.html">
+		<span class="flag flag-ru"></span>
+		<span class="name">Россия</span>
+	</a>
+</li><li data-phone="+38&nbsp;(044)&nbsp;394-91-18" data-name="Украина" data-country="2">
+	<a href="https://winestyle.com.ua/products/Lindemans-Gueuze.html">
+		<span class="flag flag-ua"></span>
+		<span class="name">Украина</span>
+	</a>
+</li><li data-phone="+7&nbsp;(495)&nbsp;988-45-58" data-name="Великобритания" data-country="3">
+	<a href="https://winestyle.co.uk/products/Lindemans-Gueuze.html">
+		<span class="flag flag-gb"></span>
+		<span class="name">Великобритания</span>
+	</a>
+</li><li data-phone="+7&nbsp;(495)&nbsp;988-45-58" data-name="Международный" data-country="4">
+	<a href="https://winestyleonline.com/products/Lindemans-Gueuze.html">
+		<span class="flag flag-eu"></span>
+		<span class="name">Международный</span>
+	</a>
+</li>
+		</ul>
+    </form>
+</div>
+		          <div class="city-wrapper" style="">
+		            <div class="has-hover">
+		              <div class="link-hover">
+		                <span>Город:</span>
+		                <span class="city">Санкт-Петербург</span>
+		                <span class="change">Изменить</span>
+		              </div>
+		              <div class="dropdown-city hover-block">
+		                <div class="cities">
+		                  <a href="https://ekb.winestyle.ru/products/Lindemans-Gueuze.html" data-city="5" class="city-link">Екатеринбург</a><a href="https://spb.winestyle.ru/products/Lindemans-Gueuze.html" data-city="6" class="city-link">Санкт-Петербург</a><a href="https://nn.winestyle.ru/products/Lindemans-Gueuze.html" data-city="7" class="city-link">Нижний Новгород</a><a href="https://tyumen.winestyle.ru/products/Lindemans-Gueuze.html" data-city="8" class="city-link">Тюмень</a><a href="https://rostov.winestyle.ru/products/Lindemans-Gueuze.html" data-city="9" class="city-link">Ростов-на-Дону</a><a href="https://krasnodar.winestyle.ru/products/Lindemans-Gueuze.html" data-city="10" class="city-link">Краснодар</a><a href="https://winestyle.ru/products/Lindemans-Gueuze.html" data-city="1" class="city-link">Москва</a><a href="/pages/for_investors.html" class="city-link for_investors_link">Сотрудничество</a>
+		                </div>
+		                <!--<a href="#" class="link-lg">����� ������ ��� � ������</a>-->
+		              </div>
+		            </div>
+		          </div>
+					
+				</div>
+				<div class="col-sm-6 footer-bottom-right">
+					<ul>
+						<li><a href="https://spb.winestyle.ru/pages/map.html">Карта сайта</a></li>
+						<li><a href="https://spb.winestyle.ru/pages/legal.html">Пользовательское соглашение</a></li>
+					</ul>
+					<span class="copyright">&#169; WineStyle 2006 &mdash; 2021</span>
+					<span class="d-b"></span>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+	</div>	
+	<div class="footer-sep"></div>	
+	<div class="fixed-elems">
+		<div class="link-scroll-up2 js-scroll-up"></div>
+		<div class="popup-cart-mobile" data-active="0">
+			<div class="popup-container">
+		    	<div class="cart-data">
+			    	<div class="cart-cost">0 <span>руб.</span></div>
+			    	<div class="prods-in-cart">0</div>
+		    	</div>
+		    	<div class="cart-btn"><a href="/cart.php" class="button button-green">Оформить</a></div>
+			</div>
+		</div>
+	</div>
+	<div class="outer-click-body"></div>
+	<div data-mobile-container="menu-catalog-block" class="menu-catalog-block-body"></div>
+	<div class="popup popup-permission" role="form">
+  <div class="popup-container">
+    <div class="permission-content">
+      <div class="title">18+<span>Добро пожаловать на сайт сети винных магазинов WineStyle. Для доступа необходимо подтвердить совершеннолетний возраст.</span></div>
+	  <div class="text-collapsible"><span class="text-show">Подробнее</span>
+		  <p class="text">Сайт содержит информацию для лиц совершеннолетнего возраста. Сведения, размещенные на сайте, не являются рекламой, носят исключительно информационный характер, и предназначены только для личного использования.</p>
+		  <p class="text" style="display:none;">Уважаемый посетитель, мы вынуждены отказать вам в посещении сайта. Мы выступаем категорически против употребления алкоголя несовершеннолетними.</p>
+	  </div>
+	  <span class="button button-yellow button-lg">Мне исполнилось 18 лет</span><span class="rotated">Внимание</span>
+	 </div>
+  </div>
+</div>
+<script type="text/javascript">
+	var block_access = 0;
+	
+	if(document.cookie.indexOf('ConfirmAge=1') || block_access){
+		var permission_block = document.getElementsByClassName('popup-permission')[0];
+		permission_block.style.display = 'block';
+
+		//добавляем класс при открытии, чтобы не было прокрутки
+		if (document.body.className.indexOf('is-blocked') == -1) {
+			document.body.className += ' is-blocked';
+		}
+
+		// Большее затемнение фона при блокировки доступа к сайту для отдельных регионов.
+		if (block_access) {
+			document.getElementsByClassName('popup-permission')[0].style.backgroundColor = 'rgba(0, 0, 0, 0.8)';
+			permission_block.getElementsByClassName('button')[0].className += ' custom';	
+		}
+		
+		// Подтверждение
+		function permission_confirm(event){
+			var date = new Date(new Date().getTime() + 60 * 60 * 24 * 1000 * 90);
+			winestyle.Functions.setCookieWS('ConfirmAge', 1, date.toUTCString(), '/', CookieDomain);
+			permission_block.style.display = 'none';
+			document.body.className = document.body.className.replace(/is-blocked/,'');
+			if (document.getElementsByClassName('redprodlink')[0]) {
+				window.location.assign(document.getElementsByClassName('redprodlink')[0].getAttribute('data-link'));
+			}
+			
+			// Иногда за формой подтверждения возраста прячется форма подтверждения региона. После подтверждения возраста регион уже не подтвердить.
+			if ($('.popup.popup-country').length && !$('.popup.popup-country').is(":visible"))
+				$('.popup.popup-country').show();
+		}
+
+		// Закрытие/возврат к пред шагу
+		function permission_cancel(event){
+			if(this.className.indexOf('custom') != -1){
+				permission_block.getElementsByClassName('button')[0].style.display = 'none';
+				permission_block.getElementsByClassName('text')[0].style.display = 'none';
+				permission_block.getElementsByClassName('text')[1].style.display = 'block';	
+				if (block_access)
+				  permission_block.getElementsByClassName('button')[0].className = permission_block.getElementsByClassName('button')[0].className.replace(/custom/,'');
+			} else {
+				permission_block.getElementsByClassName('button')[0].style.display = 'inline-block';
+				permission_block.getElementsByClassName('text')[0].style.display = 'block';				
+				permission_block.getElementsByClassName('text')[1].style.display = 'none';
+				if (block_access)
+				  permission_block.getElementsByClassName('button')[0].className += ' custom';		
+			}
+		}
+
+		if(window.addEventListener){
+			permission_block.getElementsByClassName('button')[0].addEventListener('click', block_access ? permission_cancel : permission_confirm, true);
+		}else{
+			permission_block.getElementsByClassName('button')[0].attachEvent('onclick', block_access ? permission_cancel : permission_confirm);
+		}
+	}
+</script><div class="popup popup-cart"><span class="icon icon-close"></span>
+  <div class="popup-container">
+      <span>товар добавлен в&nbsp;<a href="/cart.php">корзину</a></span>
+      <a  class="button button-yellow button-close">Продолжить выбор</a>
+      <a href="/cart.php" class="button button-green">Оформить заявку</a>
+  </div>
+</div>	
+		
+	
+	
+		<div class="sublevels-block" role="complementary">
+		<ul data-header-sublevel="menu-dropdown" class="menu menu-dropdown">
+			<li class="iconed-red active-item">
+	<a href="/wine/" >Вино</a>
+	
+</li><li class="iconed-beige active-item">
+	<a href="/champagnes-and-sparkling/" >Шампанское и игристое</a>
+	
+</li><li class="iconed-light-brown active-item">
+	<a href="/spirit/" >Крепкие напитки</a>
+	<ul class="menu-dropdown-sublevel">
+	<li class="mobile-only">
+	<span class="sublevel-back">Назад</span>
+	<a href="/spirit/" class="sublevel-all">Все</a>
+</li><li >
+	<a href="/absent/"  >Абсент</a>
+	
+</li><li >
+	<a href="/aperitive/"  >Аперитив</a>
+	
+</li><li >
+	<a href="/armagnac/"  >Арманьяк</a>
+	
+</li><li >
+	<a href="/brandy/"  >Бренди</a>
+	
+</li><li >
+	<a href="/whisky/"  >Виски</a>
+	
+</li><li >
+	<a href="/vodka/"  >Водка</a>
+	
+</li><li >
+	<a href="/grappa/"  >Граппа</a>
+	
+</li><li >
+	<a href="/gin/"  >Джин</a>
+	
+</li><li >
+	<a href="/calvados/"  >Кальвадос</a>
+	
+</li><li >
+	<a href="/cachaca/"  >Кашаса</a>
+	
+</li><li >
+	<a href="/cognac/"  >Коньяк</a>
+	
+</li><li >
+	<a href="/liqueur/"  >Ликер</a>
+	
+</li><li >
+	<a href="/liqueur/tincture/"  >Настойки</a>
+	
+</li><li >
+	<a href="/rum/"  >Ром</a>
+	
+</li><li >
+	<a href="/tequila/"  >Текила</a>
+	
+</li><li >
+	<a href="/schnaps/"  >Шнапс</a>
+	
+</li>
+</ul>
+</li><li class="iconed-yellow">
+	<a  >Слабоалкогольные напитки</a>
+	<ul class="menu-dropdown-sublevel">
+	<li class="mobile-only">
+	<span class="sublevel-back">Назад</span>
+	
+</li><li >
+	<a href="/beer/"  >Пиво</a>
+	
+</li><li >
+	<a href="/cider/"  >Сидр</a>
+	
+</li><li >
+	<a href="/sake/"  >Саке</a>
+	
+</li>
+</ul>
+</li><li class="iconed-brown">
+	<a  >Бакалея</a>
+	<ul class="menu-dropdown-sublevel">
+	<li class="mobile-only">
+	<span class="sublevel-back">Назад</span>
+	
+</li><li >
+	<a href="/oil/"  >Масло</a>
+	
+</li><li >
+	<a href="/vinegar/"  >Уксус</a>
+	
+</li>
+</ul>
+</li><li class="iconed-light-blue">
+	<a  >Вода и соки</a>
+	<ul class="menu-dropdown-sublevel">
+	<li class="mobile-only">
+	<span class="sublevel-back">Назад</span>
+	
+</li><li >
+	<a href="/water/"  >Вода</a>
+	
+</li><li >
+	<a href="/juice/"  >Сок</a>
+	
+</li><li >
+	<a href="/syrup/"  >Сироп</a>
+	
+</li>
+</ul>
+</li><li class="iconed-dark-blue active-item">
+	<a href="/accessory/" >Аксессуары</a>
+	
+</li><li class="iconed-dark-blue active-item active-item">
+	<a href="/glass/" >Бокалы и сервировка</a>
+	
+</li><li class="iconed-dark active-item">
+	<a href="/wine-set/" >Наборы и подарки</a>
+	<ul class="menu-dropdown-sublevel">
+	<li class="mobile-only">
+	<span class="sublevel-back">Назад</span>
+	<a href="/wine-set/" class="sublevel-all">Все</a>
+</li><li >
+	<a href="/gift-pack/"  >Подарочная упаковка</a>
+	
+</li>
+</ul>
+</li>
+		</ul>
+		<div class="sublevel" data-header-sublevel="menu-sublevel-wine">
+	<span class="mobile-only sublevel-back">Назад</span>
+	<span class="mobile-only sublevel-title">Вино</span>
+	<a href="/wine/" class="mobile-only sublevel-all" >Перейти в раздел</a>
+	
+	<div class="sublevel-left">
+    <div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Регионы</span>
+</li><li >
+	<a href="/wine/france/"  >Франция</a>
+	
+</li><li >
+	<a href="/wine/italy/"  >Италия</a>
+	
+</li><li >
+	<a href="/wine/russia/"  >Россия</a>
+	
+</li><li >
+	<a href="/wine/georgia/"  >Грузия</a>
+	
+</li><li >
+	<a href="/wine/spain/"  >Испания</a>
+	
+</li><li >
+	<a href="/wine/germany/"  >Германия</a>
+	
+</li><li >
+	<a href="/wine/chile/"  >Чили</a>
+	
+</li><li >
+	<a href="/wine/south-africa/"  >ЮАР</a>
+	
+</li><li >
+	<a href="/wine/portugal/"  >Португалия</a>
+	
+</li><li >
+	<a href="/wine/new-zealand/"  >Новая Зеландия</a>
+	
+</li><li class="link-all">
+	<a href="/wine/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Типы</span>
+</li><li >
+	<a href="/wine/red/"  >Красные вина</a>
+	<ul class="menu-sublevel menu-sublevel-down">
+	<li class="title">
+	<a href="/wine/cabernet-sauvignon/"  >Каберне Совиньон</a>
+	
+</li><li class="title">
+	<a href="/wine/shiraz/"  >Шираз</a>
+	
+</li>
+</ul>
+</li><li >
+	<a href="/wine/white/"  >Белые вина</a>
+	<ul class="menu-sublevel menu-sublevel-down">
+	<li >
+	<a href="/wine/chardonnay/"  >Шардоне</a>
+	
+</li><li >
+	<a href="/wine/riesling/"  >Рислинг</a>
+	
+</li>
+</ul>
+</li><li >
+	<a href="/wine/rose/"  >Розовые вина</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/champagnes/"  >Игристые</a>
+	
+</li><li >
+	<a href="/wine/port/"  >Портвейн</a>
+	
+</li><li >
+	<a href="/wine/sherry/"  >Херес</a>
+	
+</li><li class="link-all">
+	<a href="/wine/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Популярное вино</span>
+</li><li >
+	<a href="/wine/chianti/"  >Кьянти</a>
+	
+</li><li >
+	<a href="/wine/bordeaux/"  >Бордо</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/prosecco/"  >Просекко</a>
+	
+</li><li >
+	<a href="/wine/rioja/"  >Риоха</a>
+	
+</li><li >
+	<a href="/wine/chablis/"  >Шабли</a>
+	
+</li><li >
+	<a href="/wine/burgundy/"  >Бургундия</a>
+	
+</li><li >
+	<a href="/wine/tuscany/"  >Тоскана</a>
+	
+</li><li >
+	<a href="/wine/sicilia/"  >Сицилия</a>
+	
+</li><li >
+	<a href="/wine/new-world-wines/"  >Вина Нового Света</a>
+	
+</li><li >
+	<a href="/wine/chateau-wines/"  >Вина Шато</a>
+	
+</li><li class="link-all">
+	<a href="/wine/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Рейтинг и цена</span>
+</li><li >
+	<a href="/wine/cheap-and-best/"  >до 1 000 руб 80+ баллов</a>
+	
+</li><li >
+	<a href="/wine/90-rating/"  >до 3 000 руб 90+ баллов</a>
+	
+</li><li class="divider"></li><li>
+	<span>Рейтинг</span>
+</li><li >
+	<span class="ll_link"  data-href="/wine/80p_ll/">80+</span>
+	
+</li><li >
+	<span class="ll_link"  data-href="/wine/85p_ll/">85+</span>
+	
+</li><li >
+	<span class="ll_link"  data-href="/wine/90p_ll/">90+</span>
+	
+</li><li >
+	<span class="ll_link"  data-href="/wine/95p_ll/">95+</span>
+	
+</li><li class="divider"></li><li class="is-new">
+	<a href="/promo/wine-set-new/"  >Винные сеты</a>
+	
+</li><li >
+	<a href="/wine/inbox/"  >Вино в подарочной коробке</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    
+  </ul>
+</div>
+    <div class="sublevel-left-bottom">
+	<span class="name"></span>
+	<div class="rounded-links"><a href="/wine/500-1000rub/"  ><span class="icon-round"></span>
+<span class="text">Вина 500–1 000 руб</span></a><a href="/wine/1000-1500rub/"  ><span class="icon-round"></span>
+<span class="text">Вина 1 000–1 500 руб.</span></a><a href="/wine/1500-3000rub/"  ><span class="icon-round"></span>
+<span class="text">Вина 1500-3000 руб</span></a></div>
+	<a href="/wine/" class="button button-bordered-gray">Показать все</a>
+</div>
+</div>
+	<div class="sublevel-right">
+	<a href="/products/Alceno-Rio-Lilo-Sauvignon-Blanc-Airen-Jumilla-DOP-2019.html?ga=133983" data-id="133983">
+		<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<480:133/133983/0_0_tiny.jpg?h=100, >479:133/133983/0_0_cat.jpg?h=300'  class="stoploadimage" style="opacity: 0" />
+<noscript><img  alt="Alceno, Rio Lilo Sauvignon Blanc-Airen, Jumilla DOP, 2019" src='https://s.wine.style/images_gen/133/133983/0_0_cat.jpg' /></noscript>
+		<span class="text">Alceno, "Rio Lilo" Sauvignon Blanc-Airen, Jumilla DOP, 2019</span>
+		<span class="price">823 руб.</span>
+	</a>
+</div>
+</div><div class="sublevel" data-header-sublevel="menu-sublevel-champagnes-and-sparkling">
+	<span class="mobile-only sublevel-back">Назад</span>
+	<span class="mobile-only sublevel-title">Шампанское</span>
+	<a href="/champagnes-and-sparkling/" class="mobile-only sublevel-all" >Перейти в раздел</a>
+	
+	<div class="sublevel-left">
+    <div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Регионы</span>
+</li><li >
+	<a href="/champagnes-and-sparkling/france/"  >Франция</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/italy/"  >Италия</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/russia/"  >Россия</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/spain/"  >Испания</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/germany/"  >Германия</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/ukraine/"  >Украина</a>
+	
+</li><li class="link-all">
+	<a href="/champagnes-and-sparkling/"  >ВСЕ</a>
+	
+</li><li>
+	<span> </span>
+</li><li>
+	<span>Объем и упаковка</span>
+</li><li >
+	<a href="/champagnes-and-sparkling/inbox/"  >В подарочной коробке</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/1500ml/"  >В большой бутылке</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Популярное</span>
+</li><li >
+	<a href="/champagnes-and-sparkling/champagnes/"  >Шампанское</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/sparkling/"  >Игристые</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/prosecco/"  >Просекко</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/lambrusco/"  >Ламбруско</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/asti/"  >Асти</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/cava/"  >Кава</a>
+	
+</li><li class="link-all">
+	<a href="/champagnes-and-sparkling/"  >ВСЕ</a>
+	
+</li><li>
+	<span></span>
+</li><li>
+	<span>Рейтинг и цена</span>
+</li><li >
+	<a href="/champagnes-and-sparkling/cheap-and-best/"  >до 1 000 руб 80+ баллов</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/90-rating/"  >до 3 000 руб 90+ баллов</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Тип</span>
+</li><li >
+	<a href="/champagnes-and-sparkling/brut/"  >Брют</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/medium-sweet/"  >Полусладкое</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/sweet/"  >Сладкое</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/champagne-rose/"  >Розовое</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/kids/"  >Детское шампанское</a>
+	
+</li><li class="link-all">
+	<a href="/champagnes-and-sparkling/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Бренды</span>
+</li><li >
+	<a href="/champagnes-and-sparkling/moet-chandon/"  >Moet&Chandon</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/abrau-durso/"  >Абрау-Дюрсо</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/gancia/"  >Gancia</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/santero/"  >Santero</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/martini/"  >Martini</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/mondoro/"  >Mondoro</a>
+	
+</li><li class="link-all">
+	<a href="/champagnes-and-sparkling/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    
+  </ul>
+</div>
+    <div class="sublevel-left-bottom">
+	<span class="name"></span>
+	<div class="rounded-links"><a href="/champagnes-and-sparkling/1000rub/"  ><span class="icon-round"></span>
+<span class="text">до 1000 руб.</span></a><a href="/champagnes-and-sparkling/1000-2000rub/"  ><span class="icon-round"></span>
+<span class="text">1000–2000 руб.</span></a><a href="/champagnes-and-sparkling/2000-3000rub/"  ><span class="icon-round"></span>
+<span class="text">2000-3000 руб.</span></a></div>
+	<a href="/champagnes-and-sparkling/" class="button button-bordered-gray">Показать все</a>
+</div>
+</div>
+	<div class="sublevel-right">
+	<a href="/products/Marsuret-L-Ars-Prosecco-Treviso-DOC-Brut.html?ga=122544" data-id="122544">
+		<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<480:122/122544/0_0_tiny.jpg?h=100, >479:122/122544/0_0_cat.jpg?h=300'  class="stoploadimage" style="opacity: 0" />
+<noscript><img  alt="Marsuret, LArs Prosecco Treviso DOC Brut" src='https://s.wine.style/images_gen/122/122544/0_0_cat.jpg' /></noscript>
+		<span class="text">Marsuret, "L'Ars" Prosecco Treviso DOC Brut</span>
+		<span class="price">1 270 руб.</span>
+	</a>
+</div>
+</div><div class="sublevel" data-header-sublevel="menu-sublevel-whisky">
+	<span class="mobile-only sublevel-back">Назад</span>
+	<span class="mobile-only sublevel-title">Виски</span>
+	<a href="/whisky/" class="mobile-only sublevel-all" >Перейти в раздел</a>
+	
+	<div class="sublevel-left">
+    <div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Регионы</span>
+</li><li >
+	<a href="/whisky/scotland/"  >Шотландия</a>
+	
+</li><li >
+	<a href="/whisky/ireland/"  >Ирландия</a>
+	
+</li><li >
+	<a href="/whisky/usa/"  >США</a>
+	
+</li><li >
+	<a href="/whisky/japan/"  >Япония</a>
+	
+</li><li >
+	<a href="/whisky/canada/"  >Канада</a>
+	
+</li><li >
+	<a href="/whisky/england/"  >Англия</a>
+	
+</li><li class="link-all">
+	<a href="/whisky/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Тип</span>
+</li><li >
+	<a href="/whisky/single-malt/"  >Односолодовый</a>
+	
+</li><li >
+	<a href="/whisky/blended/"  >Купажированный</a>
+	
+</li><li >
+	<a href="/whisky/bourbon/"  >Бурбон</a>
+	
+</li><li class="link-all">
+	<a href="/whisky/"  >ВСЕ</a>
+	
+</li><li class="divider"></li><li >
+	<a href="/whisky/inbox/"  >Виски в коробке</a>
+	
+</li><li >
+	<a href="/whisky/bigcapacity/"  >Виски в больших бутылках</a>
+	
+</li><li >
+	<a href="/whisky/metal-swing/"  >Виски на качелях</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Бренды</span>
+</li><li >
+	<a href="/whisky/macallan/"  >Macallan</a>
+	
+</li><li >
+	<a href="/whisky/jack-daniels/"  >Jack Daniels</a>
+	
+</li><li >
+	<a href="/whisky/chivas-regal/"  >Chivas Regal</a>
+	
+</li><li >
+	<a href="/whisky/jameson/"  >Jameson</a>
+	
+</li><li >
+	<a href="/whisky/laphroaig/"  >Laphroaig</a>
+	
+</li><li >
+	<a href="/whisky/auchentoshan/"  >Auchentoshan</a>
+	
+</li><li class="link-all">
+	<a href="/whisky/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Выдержка</span>
+</li><li >
+	<a href="/whisky/12y/"  >12 лет</a>
+	
+</li><li >
+	<a href="/whisky/18y/"  >18 лет</a>
+	
+</li><li >
+	<a href="/whisky/25y/"  >25 лет</a>
+	
+</li><li >
+	<a href="/whisky/30y/"  >30 лет</a>
+	
+</li><li >
+	<a href="/whisky/40y/"  >40 лет</a>
+	
+</li><li >
+	<a href="/whisky/50y/"  >50 лет</a>
+	
+</li><li class="link-all">
+	<a href="/whisky/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    
+  </ul>
+</div>
+    <div class="sublevel-left-bottom">
+	<span class="name"></span>
+	<div class="rounded-links"><a href="/whisky/1000rub/"  ><span class="icon-round"></span>
+<span class="text">до 1000 руб.</span></a><a href="/whisky/1000-3000rub/"  ><span class="icon-round"></span>
+<span class="text">1000–3000 руб.</span></a><a href="/whisky/3000-6000rub/"  ><span class="icon-round"></span>
+<span class="text">3000–6000 руб.</span></a></div>
+	<a href="/whisky/" class="button button-bordered-gray">Показать все</a>
+</div>
+</div>
+	<div class="sublevel-right">
+	<a href="/products/Jim-Beam-700.html?ga=2402" data-id="2402">
+		<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<480:240/2402/0_0_tiny.jpg?h=100, >479:240/2402/0_0_cat.jpg?h=300'  class="stoploadimage" style="opacity: 0" />
+<noscript><img  alt="Jim Beam" src='https://s.wine.style/images_gen/240/2402/0_0_cat.jpg' /></noscript>
+		<span class="text">"Jim Beam"</span>
+		<span class="price">1 602 руб.</span>
+	</a>
+</div>
+</div><div class="sublevel" data-header-sublevel="menu-sublevel-cognac">
+	<span class="mobile-only sublevel-back">Назад</span>
+	<span class="mobile-only sublevel-title">Коньяк</span>
+	<a href="/cognac/" class="mobile-only sublevel-all" >Перейти в раздел</a>
+	
+	<div class="sublevel-left">
+    <div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Класс коньяка</span>
+</li><li >
+	<a href="/cognac/xo/"  >XO</a>
+	
+</li><li >
+	<a href="/cognac/vsop/"  >VSOP</a>
+	
+</li><li >
+	<a href="/cognac/vs/"  >VS</a>
+	
+</li><li >
+	<a href="/cognac/five-stars/"  >5 звёзд</a>
+	
+</li><li >
+	<a href="/cognac/four-stars/"  >4 звезды</a>
+	
+</li><li >
+	<a href="/cognac/three-stars/"  >3 звезды</a>
+	
+</li><li class="link-all">
+	<a href="/cognac/"  >ВСЕ</a>
+	
+</li><li class="divider"></li><li >
+	<a href="/cognac/inbox/"  >Коньяк в подарочной коробке</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Регион</span>
+</li><li >
+	<a href="/cognac/france/"  >Франция</a>
+	
+</li><li >
+	<a href="/cognac/armenia/"  >Армения</a>
+	
+</li><li >
+	<a href="/cognac/russia/"  >Россия</a>
+	
+</li><li >
+	<a href="/cognac/georgia/"  >Грузия</a>
+	
+</li><li >
+	<a href="/cognac/ukraine/"  >Украина</a>
+	
+</li><li class="link-all">
+	<a href="/cognac/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Бренды</span>
+</li><li >
+	<a href="/cognac/hennessy/"  >Hennessy</a>
+	
+</li><li >
+	<a href="/cognac/courvoisier/"  >Courvoisier</a>
+	
+</li><li >
+	<a href="/cognac/ararat/"  >Ararat</a>
+	
+</li><li >
+	<a href="/cognac/remy-martin/"  >Remy Martin</a>
+	
+</li><li >
+	<a href="/cognac/martell/"  >Martell</a>
+	
+</li><li >
+	<a href="/cognac/frapin/"  >Frapin</a>
+	
+</li><li class="link-all">
+	<a href="/cognac/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Выдержка</span>
+</li><li >
+	<a href="/cognac/3y/"  >3 года</a>
+	
+</li><li >
+	<a href="/cognac/5y/"  >5 лет</a>
+	
+</li><li >
+	<a href="/cognac/7y/"  >7 лет</a>
+	
+</li><li >
+	<a href="/cognac/10y/"  >10 лет</a>
+	
+</li><li >
+	<a href="/cognac/20y/"  >20 лет</a>
+	
+</li><li >
+	<a href="/cognac/30y/"  >30 лет</a>
+	
+</li><li class="link-all">
+	<a href="/cognac/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    
+  </ul>
+</div>
+    <div class="sublevel-left-bottom">
+	<span class="name"></span>
+	<div class="rounded-links"><a href="/cognac/1000rub/"  ><span class="icon-round"></span>
+<span class="text">до 1000 руб.</span></a><a href="/cognac/1000-2500rub/"  ><span class="icon-round"></span>
+<span class="text">1 000–2 500 руб.</span></a><a href="/cognac/2500-6000rub/"  ><span class="icon-round"></span>
+<span class="text">2 500–6 000 руб.</span></a></div>
+	<a href="/cognac/" class="button button-bordered-gray">Показать все</a>
+</div>
+</div>
+	<div class="sublevel-right">
+	<a href="/products/Courvoisier-VSOP-with-box-700.html?ga=2431" data-id="2431">
+		<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<480:243/2431/0_0_tiny.jpg?h=93, >479:243/2431/0_0_cat.jpg?h=300'  class="stoploadimage" style="opacity: 0" />
+<noscript><img  alt="Courvoisier VSOP, with box" src='https://s.wine.style/images_gen/243/2431/0_0_cat.jpg' /></noscript>
+		<span class="text">"Courvoisier" VSOP, with box</span>
+		<span class="price">4 485 руб.</span>
+	</a>
+</div>
+</div><div class="sublevel" data-header-sublevel="menu-sublevel-beer">
+	<span class="mobile-only sublevel-back">Назад</span>
+	<span class="mobile-only sublevel-title">Пиво</span>
+	<a href="/beer/" class="mobile-only sublevel-all" >Перейти в раздел</a>
+	
+	<div class="sublevel-left">
+    <div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Регион</span>
+</li><li >
+	<a href="/beer/germany/"  >Германия</a>
+	
+</li><li >
+	<a href="/beer/belgium/"  >Бельгия</a>
+	
+</li><li >
+	<a href="/beer/england/"  >Англия</a>
+	
+</li><li >
+	<a href="/beer/czech/"  >Чехия</a>
+	
+</li><li >
+	<a href="/beer/russia/"  >Россия</a>
+	
+</li><li >
+	<a href="/beer/ireland/"  >Ирландия</a>
+	
+</li><li class="link-all">
+	<a href="/beer/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Разновидность</span>
+</li><li >
+	<a href="/beer/lager/"  >Лагер</a>
+	
+</li><li >
+	<a href="/beer/ale/"  >Эль</a>
+	
+</li><li >
+	<a href="/beer/light/"  >Светлое</a>
+	
+</li><li >
+	<a href="/beer/dark/"  >Тёмное</a>
+	
+</li><li class="link-all">
+	<a href="/beer/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Крепость</span>
+</li><li >
+	<a href="/beer/strong/"  >Крепкое</a>
+	
+</li><li >
+	<a href="/beer/light-alco/"  >Легкое</a>
+	
+</li><li >
+	<a href="/beer/nonalcoholic/"  >Безалкогольное</a>
+	
+</li><li class="link-all">
+	<a href="/beer/"  >ВСЕ</a>
+	
+</li><li>
+	<span>Фильтрация</span>
+</li><li >
+	<a href="/beer/filtered/"  >Фильтрованное</a>
+	
+</li><li >
+	<a href="/beer/unfiltered/"  >Нефильтрованное</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Сидр</span>
+</li><li >
+	<a href="/cider/apple/"  >Яблочный</a>
+	
+</li><li >
+	<a href="/cider/pear/"  >Грушевый</a>
+	
+</li><li class="divider"></li><li >
+	<a href="/cider/dry/"  >Сухой</a>
+	
+</li><li >
+	<a href="/cider/medium-dry/"  >Полусухой</a>
+	
+</li><li >
+	<a href="/cider/"  >Полусладкий</a>
+	
+</li><li >
+	<a href="/cider/sweet/"  >Сладкий</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    
+  </ul>
+</div>
+    <div class="sublevel-left-bottom">
+	<span class="name"></span>
+	<div class="rounded-links"><a href="/beer/lt100rub/"  ><span class="icon-round"></span>
+<span class="text">до 100 руб</span></a><a href="/beer/100-200rub/"  ><span class="icon-round"></span>
+<span class="text">100-200 руб</span></a><a href="/beer/200-300rub/"  ><span class="icon-round"></span>
+<span class="text">200-300 руб</span></a></div>
+	<a href="/beer/" class="button button-bordered-gray">Показать все</a>
+</div>
+</div>
+	<div class="sublevel-right">
+	<a href="/products/Guinness-Draught-with-nitrogen-capsule-in-can.html?ga=24227" data-id="24227">
+		<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<480:242/24227/0_0_tiny.jpg?h=100, >479:242/24227/0_0_cat.jpg?h=300'  class="stoploadimage" style="opacity: 0" />
+<noscript><img  alt="Guinness Draught (with nitrogen capsule), in can" src='https://s.wine.style/images_gen/242/24227/0_0_cat.jpg' /></noscript>
+		<span class="text">"Guinness" Draught (with nitrogen capsule), in can</span>
+		<span class="price">245 руб.</span>
+	</a>
+</div>
+</div><div class="sublevel" data-header-sublevel="menu-sublevel-liqueur">
+	<span class="mobile-only sublevel-back">Назад</span>
+	<span class="mobile-only sublevel-title">Ликер</span>
+	<a href="/liqueur/" class="mobile-only sublevel-all" >Перейти в раздел</a>
+	
+	<div class="sublevel-left">
+    <div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Бренды</span>
+</li><li >
+	<a href="/liqueur/jagermeister/"  >Jagermeister</a>
+	
+</li><li >
+	<a href="/liqueur/baileys/"  >Baileys</a>
+	
+</li><li >
+	<a href="/liqueur/cointreau/"  >Cointreau</a>
+	
+</li><li >
+	<a href="/liqueur/drambuie/"  >Drambuie</a>
+	
+</li><li >
+	<a href="/liqueur/kahlua/"  >Kahlua</a>
+	
+</li><li >
+	<a href="/liqueur/monin/"  >Monin</a>
+	
+</li><li class="link-all">
+	<a href="/liqueur/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Тип</span>
+</li><li >
+	<a href="/liqueur/chocolate-liqueur/"  >Шоколадный</a>
+	
+</li><li >
+	<a href="/liqueur/bitter/"  >Биттер</a>
+	
+</li><li >
+	<a href="/liqueur/herbal-liqueur/"  >Травяной</a>
+	
+</li><li >
+	<a href="/liqueur/berry-liqueur/"  >Ягодный</a>
+	
+</li><li >
+	<a href="/liqueur/nut/"  >Ореховый</a>
+	
+</li><li >
+	<span class="ll_link"  data-href="/liqueur/coffee-liqueur_ll/">Кофейный</span>
+	
+</li><li class="link-all">
+	<a href="/liqueur/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Вкус</span>
+</li><li >
+	<a href="/liqueur/amaretto/"  >Амаретто</a>
+	
+</li><li >
+	<a href="/liqueur/sambuca/"  >Самбука</a>
+	
+</li><li >
+	<span class="ll_link"  data-href="/liqueur/mint_ll/">Мятный</span>
+	
+</li><li >
+	<a href="/liqueur/curacao/"  >Кюрасао</a>
+	
+</li><li >
+	<a href="/liqueur/triple-sec/"  >Трипл сек</a>
+	
+</li><li >
+	<span class="ll_link"  data-href="/liqueur/black-currant_ll/">Черная смородина</span>
+	
+</li><li class="link-all">
+	<a href="/liqueur/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Тип</span>
+</li><li >
+	<a href="/liqueur/tincture/"  >Настойки</a>
+	
+</li><li >
+	<a href="/liqueur/cream-liqueur/"  >Сливочный</a>
+	
+</li><li >
+	<a href="/liqueur/dessert/"  >Десертный</a>
+	
+</li><li >
+	<a href="/liqueur/strong/"  >Крепкий</a>
+	
+</li><li class="divider"></li><li >
+	<a href="/liqueur/with-cocktails/"  >Ликер для коктейлей</a>
+	
+</li><li >
+	<a href="/liqueur/with-aperitif/"  >Ликер на аперитив</a>
+	
+</li><li class="link-all">
+	<a href="/liqueur/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    
+  </ul>
+</div>
+    <div class="sublevel-left-bottom">
+	<span class="name"></span>
+	<div class="rounded-links"><a href="/liqueur/500rub/"  ><span class="icon-round"></span>
+<span class="text">до 500 руб.</span></a><a href="/liqueur/500-1000rub/"  ><span class="icon-round"></span>
+<span class="text">500–1 000 руб</span></a><a href="/liqueur/1000-1500rub/"  ><span class="icon-round"></span>
+<span class="text">1 000–1 500 руб.</span></a></div>
+	<a href="/liqueur/" class="button button-bordered-gray">Показать все</a>
+</div>
+</div>
+	<div class="sublevel-right">
+	<a href="/products/Drambuie.html?ga=4621" data-id="4621">
+		<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<480:462/4621/0_0_tiny.jpg?h=100, >479:462/4621/0_0_cat.jpg?h=300'  class="stoploadimage" style="opacity: 0" />
+<noscript><img  alt="Drambuie" src='https://s.wine.style/images_gen/462/4621/0_0_cat.jpg' /></noscript>
+		<span class="text">"Drambuie"</span>
+		<span class="price">3 192 руб.</span>
+	</a>
+</div>
+</div><div class="sublevel" data-header-sublevel="menu-sublevel-vodka">
+	<span class="mobile-only sublevel-back">Назад</span>
+	<span class="mobile-only sublevel-title">Водка</span>
+	<a href="/vodka/" class="mobile-only sublevel-all" >Перейти в раздел</a>
+	
+	<div class="sublevel-left">
+    <div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Регион</span>
+</li><li >
+	<a href="/vodka/russia/"  >Россия</a>
+	
+</li><li >
+	<a href="/vodka/ukraine/"  >Украина</a>
+	
+</li><li >
+	<a href="/vodka/poland/"  >Польша</a>
+	
+</li><li >
+	<a href="/vodka/armenia/"  >Армения</a>
+	
+</li><li >
+	<a href="/vodka/france/"  >Франция</a>
+	
+</li><li >
+	<a href="/vodka/belarus/"  >Беларусь</a>
+	
+</li><li class="link-all">
+	<a href="/vodka/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Бренды</span>
+</li><li >
+	<a href="/vodka/russian-standard/"  >Русский Стандарт</a>
+	
+</li><li >
+	<a href="/vodka/finlandia/"  >Finlandia</a>
+	
+</li><li >
+	<a href="/vodka/absolut/"  >Absolut</a>
+	
+</li><li >
+	<a href="/vodka/beluga/"  >Белуга</a>
+	
+</li><li >
+	<a href="/vodka/kauffman/"  >Кауфман</a>
+	
+</li><li >
+	<a href="/vodka/kremlin-award/"  >Kremlin Awar</a>
+	
+</li><li class="link-all">
+	<a href="/vodka/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Тип</span>
+</li><li >
+	<a href="/vodka/classical/"  >Классическая</a>
+	
+</li><li >
+	<a href="/vodka/fruit/"  >Фруктовая</a>
+	
+</li><li >
+	<a href="/vodka/grape/"  >Виноградная</a>
+	
+</li><li >
+	<a href="/vodka/flavoured/"  >Ароматизированная</a>
+	
+</li><li >
+	<a href="/vodka/mulberry/"  >Тутовая</a>
+	
+</li><li >
+	<a href="/vodka/polugar/"  >Полугар</a>
+	
+</li><li class="link-all">
+	<a href="/vodka/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Класс</span>
+</li><li >
+	<a href="/vodka/premium/"  >Премиум</a>
+	
+</li><li >
+	<a href="/vodka/super-premium/"  >Супер-премиум</a>
+	
+</li><li >
+	<a href="/vodka/standart/"  >Стандарт</a>
+	
+</li><li >
+	<a href="/vodka/ultra-premium/"  >Ультра-премиум</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    
+  </ul>
+</div>
+    <div class="sublevel-left-bottom">
+	<span class="name"></span>
+	<div class="rounded-links"><a href="/vodka/1000rub/"  ><span class="icon-round"></span>
+<span class="text">до 1000 руб.</span></a><a href="/vodka/1000-2500rub/"  ><span class="icon-round"></span>
+<span class="text">1 000–2 500 руб.</span></a><a href="/vodka/2500-6000rub/"  ><span class="icon-round"></span>
+<span class="text">2 500–6 000 руб.</span></a></div>
+	<a href="/vodka/" class="button button-bordered-gray">Показать все</a>
+</div>
+</div>
+	<div class="sublevel-right">
+	<a href="/products/Absolut-700.html?ga=6918" data-id="6918">
+		<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<480:691/6918/0_0_tiny.jpg?h=100, >479:691/6918/0_0_cat.jpg?h=300'  class="stoploadimage" style="opacity: 0" />
+<noscript><img  alt="Absolut" src='https://s.wine.style/images_gen/691/6918/0_0_cat.jpg' /></noscript>
+		<span class="text">"Absolut"</span>
+		<span class="price">1 170 руб.</span>
+	</a>
+</div>
+</div><div class="sublevel" data-header-sublevel="menu-sublevel-water">
+	<span class="mobile-only sublevel-back">Назад</span>
+	<span class="mobile-only sublevel-title">Вода</span>
+	<a href="/water/" class="mobile-only sublevel-all" >Перейти в раздел</a>
+	
+	<div class="sublevel-left">
+    <div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Газация</span>
+</li><li >
+	<a href="/water/still/"  >Негазированная</a>
+	
+</li><li >
+	<a href="/water/sparkling/"  >Газированная</a>
+	
+</li><li class="link-all">
+	<a href="/water/"  >ВСЕ</a>
+	
+</li><li>
+	<span>Емкость</span>
+</li><li >
+	<a href="/water/glass/"  >Стекло</a>
+	
+</li><li >
+	<a href="/water/plastic/"  >Пластик</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Разновидность</span>
+</li><li >
+	<a href="/water/mineral/"  >Минеральная</a>
+	
+</li><li >
+	<a href="/water/mountain/"  >Горная</a>
+	
+</li><li >
+	<a href="/water/artesian/"  >Артезианская</a>
+	
+</li><li >
+	<a href="/water/coconut-water/"  >Кокосовая</a>
+	
+</li><li >
+	<a href="/juice/"  >Сок</a>
+	
+</li><li >
+	<a href="/syrup/"  >Сироп</a>
+	
+</li><li class="link-all">
+	<a href="/water/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Бренды</span>
+</li><li >
+	<a href="/water/san-benedetto/"  >San Benedetto</a>
+	
+</li><li >
+	<a href="/water/vittel/"  >Vittel</a>
+	
+</li><li >
+	<a href="/water/aqua-vilajuiga/"  >Aqua Vilajuiga</a>
+	
+</li><li >
+	<a href="/water/sairme/"  >Sairme</a>
+	
+</li><li >
+	<a href="/water/borjomi/"  >Borjomi</a>
+	
+</li><li >
+	<a href="/water/evian/"  >Evian</a>
+	
+</li><li class="link-all">
+	<a href="/water/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Объем</span>
+</li><li >
+	<a href="/water/250ml/"  >250 мл</a>
+	
+</li><li >
+	<a href="/water/330ml/"  >0.33 л</a>
+	
+</li><li >
+	<a href="/water/500ml/"  >0.5 л</a>
+	
+</li><li >
+	<a href="/water/1000ml/"  >1 л</a>
+	
+</li><li class="link-all">
+	<a href="/water/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    
+  </ul>
+</div>
+    <div class="sublevel-left-bottom">
+	<span class="name"></span>
+	<div class="rounded-links"><a href="/water/100rub/"  ><span class="icon-round"></span>
+<span class="text">до 100 руб</span></a><a href="/water/100-200rub/"  ><span class="icon-round"></span>
+<span class="text">100-200 руб</span></a><a href="/water/200-300rub/"  ><span class="icon-round"></span>
+<span class="text">200-300 руб</span></a></div>
+	<a href="/water/" class="button button-bordered-gray">Показать все</a>
+</div>
+</div>
+	<div class="sublevel-right">
+	<a href="/products/Borjomi-Glass.html?ga=27654" data-id="27654">
+		<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<480:276/27654/0_0_tiny.jpg?h=100, >479:276/27654/0_0_cat.jpg?h=300'  class="stoploadimage" style="opacity: 0" />
+<noscript><img  alt="Borjomi, Glass" src='https://s.wine.style/images_gen/276/27654/0_0_cat.jpg' /></noscript>
+		<span class="text">"Borjomi", Glass</span>
+		<span class="price">102 руб.</span>
+	</a>
+</div>
+</div><div class="sublevel" data-header-sublevel="menu-sublevel-wine-set">
+	<span class="mobile-only sublevel-back">Назад</span>
+	<span class="mobile-only sublevel-title">Наборы и подарки</span>
+	<a href="/wine-set/" class="mobile-only sublevel-all" >Перейти в раздел</a>
+	
+	<div class="sublevel-left">
+    <div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span><a href="/gifts/"  >Подарки</a></span>
+</li><li >
+	<a href="/gifts/giftwines/"  >Подарочные вина</a>
+	
+</li><li >
+	<a href="/gifts/giftchampagnes/"  >Подарочные шампанские</a>
+	
+</li><li >
+	<a href="/gifts/gift_whisky/"  >Виски в подарок</a>
+	
+</li><li >
+	<a href="/gifts/gift_cognac/"  >Коньяк в подарок</a>
+	
+</li><li >
+	<a href="/gifts/8mar/"  >Подарки женщинам</a>
+	
+</li><li >
+	<a href="/gifts/23feb/"  >Подарки мужчинам</a>
+	
+</li><li class="link-all">
+	<a href="/gifts/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span><a href="/wine-set/"  >Наборы</a></span>
+</li><li >
+	<a href="/wine-set/"  >Винные наборы</a>
+	
+</li><li >
+	<a href="/wine/inbox/"  >Вино в подарочной коробке</a>
+	
+</li><li >
+	<a href="/champagnes-and-sparkling/inbox/"  >Шампанское в коробке</a>
+	
+</li><li >
+	<a href="/whisky/inbox/"  >Виски в коробке</a>
+	
+</li><li >
+	<a href="/cognac/inbox/"  >Коньяк в коробке</a>
+	
+</li><li >
+	<a href="/liqueur/inbox/"  >Ликер в коробке</a>
+	
+</li><li class="link-all">
+	<a href="/wine-set/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span><a href="/gift-pack/"  >Подарочная упаковка</a></span>
+</li><li >
+	<a href="/gift-pack/box/"  >Коробка</a>
+	
+</li><li >
+	<a href="/gift-pack/basket/"  >Корзина</a>
+	
+</li><li >
+	<a href="/gift-pack/bag/"  >Пакет</a>
+	
+</li><li >
+	<a href="/gift-pack/case/"  >Футляр</a>
+	
+</li><li >
+	<a href="/gift-pack/slide-box/"  >Пенал</a>
+	
+</li><li >
+	<a href="/gift-pack/tube/"  >Тубус</a>
+	
+</li><li class="link-all">
+	<a href="/gift-pack/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span></span>
+</li><li >
+	<a href="/gift-pack/cardboard-box/"  >Картон</a>
+	
+</li><li >
+	<a href="/gift-pack/wood/"  >Дерево</a>
+	
+</li><li>
+	<span>Вместимость</span>
+</li><li >
+	<a href="/gift-pack/1bottles/"  >1 бутылка</a>
+	
+</li><li >
+	<a href="/gift-pack/2bottles/"  >2 бутылки</a>
+	
+</li><li >
+	<a href="/gift-pack/3bottles/"  >3 бутылки</a>
+	
+</li><li class="link-all">
+	<a href="/gift-pack/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div>
+    
+</div>
+	<div class="sublevel-right">
+	<a href="/products/Onegin-gift-set-with-2-glasses.html?ga=71998" data-id="71998">
+		<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<480:719/71998/0_0_tiny.jpg?h=52, >479:719/71998/0_0_cat.jpg?h=170'  class="stoploadimage" style="opacity: 0" />
+<noscript><img  alt="Onegin, gift set with 2 glasses" src='https://s.wine.style/images_gen/719/71998/0_0_cat.jpg' /></noscript>
+		<span class="text">"Onegin", gift set with 2 glasses</span>
+		<span class="price">4 300 руб.</span>
+	</a>
+</div>
+</div><div class="sublevel" data-header-sublevel="menu-sublevel-glass">
+	<span class="mobile-only sublevel-back">Назад</span>
+	<span class="mobile-only sublevel-title">Бокалы</span>
+	<a href="/glass/" class="mobile-only sublevel-all" >Перейти в раздел</a>
+	
+	<div class="sublevel-left">
+    <div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Тип</span>
+</li><li >
+	<a href="/glass/glass/"  >Бокал</a>
+	
+</li><li >
+	<a href="/glass/tumbler-glass/"  >Стакан</a>
+	
+</li><li >
+	<a href="/glass/decanter/"  >Декантер</a>
+	
+</li><li >
+	<a href="/glass/jug/"  >Кувшин</a>
+	
+</li><li >
+	<a href="/glass/plate/"  >Тарелка</a>
+	
+</li><li >
+	<a href="/glass/set/"  >Набор</a>
+	
+</li><li class="link-all">
+	<a href="/glass/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Подходит</span>
+</li><li >
+	<a href="/glass/red-wine-glasses/"  >Для вина</a>
+	
+</li><li >
+	<a href="/glass/champagne-and-sparkling-wine-glasses/"  >Для шампанского</a>
+	
+</li><li >
+	<a href="/glass/whisky-glasses/"  >Для виски</a>
+	
+</li><li >
+	<a href="/glass/cognac-glasses/"  >Для коньяка</a>
+	
+</li><li >
+	<a href="/glass/beer-glasses-suitable/"  >Для пива</a>
+	
+</li><li >
+	<a href="/glass/cocktail-glasses/"  >Для коктейлей</a>
+	
+</li><li class="link-all">
+	<a href="/glass/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Производство</span>
+</li><li >
+	<a href="/glass/spiegelau/"  >Spiegelau</a>
+	
+</li><li >
+	<a href="/glass/zafferano/"  >Zafferano</a>
+	
+</li><li >
+	<a href="/glass/riedel/"  >Riedel</a>
+	
+</li><li class="divider"></li><li >
+	<a href="/glass/germany/"  >Германия</a>
+	
+</li><li >
+	<a href="/glass/italy/"  >Италия</a>
+	
+</li><li class="link-all">
+	<a href="/glass/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Материал</span>
+</li><li >
+	<a href="/glass/glass-color/"  >Цветное стекло</a>
+	
+</li><li >
+	<a href="/glass/glass-material/"  >Стекло</a>
+	
+</li><li >
+	<a href="/glass/crystal-glass/"  >Хрустальное стекло</a>
+	
+</li><li >
+	<a href="/glass/crystal/"  >Хрусталь</a>
+	
+</li><li class="divider"></li><li >
+	<a href="/glass/handmade/"  >Ручная работа</a>
+	
+</li><li class="link-all">
+	<a href="/glass/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    
+  </ul>
+</div>
+    <div class="sublevel-left-bottom">
+	<span class="name"></span>
+	<div class="rounded-links"><a href="/glass/1000rub/"  ><span class="icon-round"></span>
+<span class="text">до 1000 руб.</span></a><a href="/glass/1000-2500rub/"  ><span class="icon-round"></span>
+<span class="text">1 000–2 500 руб.</span></a><a href="/glass/2500-6000rub/"  ><span class="icon-round"></span>
+<span class="text">2 500–6 000 руб.</span></a></div>
+	<a href="/glass/" class="button button-bordered-gray">Показать все</a>
+</div>
+</div>
+	<div class="sublevel-right">
+	<a href="/products/Glass-Co-Degustation-Bordeaux-620-ml.html?ga=46773" data-id="46773">
+		<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<480:467/46773/0_0_tiny.jpg?h=100, >479:467/46773/0_0_cat.jpg?h=300'  class="stoploadimage" style="opacity: 0" />
+<noscript><img  alt="Glass&Co, Degustation, Bordeaux" src='https://s.wine.style/images_gen/467/46773/0_0_cat.jpg' /></noscript>
+		<span class="text">Glass&Co, "Degustation", Bordeaux</span>
+		<span class="price">394 руб.</span>
+	</a>
+</div>
+</div><div class="sublevel" data-header-sublevel="menu-sublevel-accessory">
+	<span class="mobile-only sublevel-back">Назад</span>
+	<span class="mobile-only sublevel-title">Аксессуары</span>
+	<a href="/accessory/" class="mobile-only sublevel-all" >Перейти в раздел</a>
+	
+	<div class="sublevel-left">
+    <div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Вид</span>
+</li><li >
+	<a href="/accessory/corkscrew/"  >Штопор</a>
+	
+</li><li >
+	<a href="/accessory/cork-acckind/"  >Пробка</a>
+	
+</li><li >
+	<a href="/accessory/cooler/"  >Охладитель</a>
+	
+</li><li >
+	<a href="/accessory/buckets/"  >Ведерки</a>
+	
+</li><li >
+	<a href="/accessory/set-of-accessories/"  >Набор</a>
+	
+</li><li >
+	<a href="/accessory/other-accessories/"  >Другие</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Подходит для</span>
+</li><li >
+	<a href="/accessory/for-wines/"  >Для вин</a>
+	
+</li><li >
+	<a href="/accessory/for-wine-and-other-drinks/"  >Для вин и напитков</a>
+	
+</li><li >
+	<a href="/accessory/for-champagne-and-sparkling/"  >Для игристых и шампанских</a>
+	
+</li><li >
+	<a href="/accessory/for-ice/"  >Для льда</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Штопоры</span>
+</li><li >
+	<a href="/accessory/lever-corkscrew/"  >Рычажный</a>
+	
+</li><li >
+	<a href="/accessory/wing-corkscrew/"  >Винтовой/Вращательный</a>
+	
+</li><li >
+	<a href="/accessory/electric-corkscrew/"  >Электрический</a>
+	
+</li><li >
+	<a href="/accessory/champagne-corkscrew/"  >Для шампанского</a>
+	
+</li><li >
+	<a href="/accessory/sommelier-knife/"  >Нож сомелье</a>
+	
+</li><li class="link-all">
+	<a href="/accessory/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    
+  </ul>
+</div>
+    <div class="sublevel-left-bottom">
+	<span class="name"></span>
+	<div class="rounded-links"><a href="/accessory/500-1000rub/"  ><span class="icon-round"></span>
+<span class="text">500–1 000 руб</span></a><a href="/accessory/1000-1500rub/"  ><span class="icon-round"></span>
+<span class="text">1 000–1 500 руб.</span></a><a href="/accessory/1500-3000rub/"  ><span class="icon-round"></span>
+<span class="text">1500-3000 руб</span></a></div>
+	<a href="/accessory/" class="button button-bordered-gray">Показать все</a>
+</div>
+</div>
+	<div class="sublevel-right">
+	<a href="/products/Trudeau-Double-Lever-Corkscrew.html?ga=71528" data-id="71528">
+		<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<480:715/71528/0_0_tiny.jpg?h=100, >479:715/71528/0_0_cat.jpg?h=300'  class="stoploadimage" style="opacity: 0" />
+<noscript><img  alt="Trudeau, Double Lever Corkscrew" src='https://s.wine.style/images_gen/715/71528/0_0_cat.jpg' /></noscript>
+		<span class="text">Trudeau, Double Lever Corkscrew</span>
+		<span class="price">1 373 руб.</span>
+	</a>
+</div>
+</div><div class="sublevel" data-header-sublevel="menu-sublevel-rum">
+	<span class="mobile-only sublevel-back">Назад</span>
+	<span class="mobile-only sublevel-title">Ром</span>
+	<a href="/rum/" class="mobile-only sublevel-all" >Перейти в раздел</a>
+	
+	<div class="sublevel-left">
+    <div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Регион</span>
+</li><li >
+	<a href="/rum/cuba/"  >Куба</a>
+	
+</li><li >
+	<a href="/rum/dominican-republic/"  >Доминиканская республика</a>
+	
+</li><li >
+	<a href="/rum/usa/"  >США</a>
+	
+</li><li >
+	<a href="/rum/trinidad-and-tobago/"  >Тринидад и Тобаго</a>
+	
+</li><li >
+	<a href="/rum/barbados/"  >Барбадос</a>
+	
+</li><li >
+	<a href="/rum/jamaica/"  >Ямайка</a>
+	
+</li><li class="link-all">
+	<a href="/rum/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Бренды</span>
+</li><li >
+	<a href="/rum/bacardi/"  >Bacardi</a>
+	
+</li><li >
+	<a href="/rum/havana-club/"  >Havana Club</a>
+	
+</li><li >
+	<a href="/rum/zacapa/"  >Zacapa</a>
+	
+</li><li >
+	<a href="/rum/santiago-de-cuba/"  >Santiago de Cuba</a>
+	
+</li><li >
+	<a href="/rum/captain-morgan/"  >Captain Morgan</a>
+	
+</li><li class="link-all">
+	<a href="/rum/"  >ВСЕ</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    <li>
+	<span>Объем</span>
+</li><li >
+	<a href="/rum/50ml/"  >50 мл</a>
+	
+</li><li >
+	<a href="/rum/500ml/"  >0.5 л</a>
+	
+</li><li >
+	<a href="/rum/700ml/"  >0.7 л</a>
+	
+</li><li >
+	<a href="/rum/1000ml/"  >1 л</a>
+	
+</li><li class="link-all">
+	<a href="/rum/"  >ВСЕ</a>
+	
+</li><li class="divider"></li><li >
+	<a href="/rum/inbox/"  >Ром в подарочной коробке</a>
+	
+</li>
+  </ul>
+</div><div class="sublevel-left-menu">
+  <ul class="menu menu-sublevel">
+    
+  </ul>
+</div>
+    <div class="sublevel-left-bottom">
+	<span class="name"></span>
+	<div class="rounded-links"><a href="/rum/1000rub/"  ><span class="icon-round"></span>
+<span class="text">до 1000 руб.</span></a><a href="/rum/1000-2500rub/"  ><span class="icon-round"></span>
+<span class="text">1 000–2 500 руб.</span></a><a href="/rum/2500-6000rub/"  ><span class="icon-round"></span>
+<span class="text">2 500–6 000 руб.</span></a></div>
+	<a href="/rum/" class="button button-bordered-gray">Показать все</a>
+</div>
+</div>
+	<div class="sublevel-right">
+	<a href="/products/Legendario-Elixir-de-Cuba.html?ga=32833" data-id="32833">
+		<img src="https://s.wine.style/templates/default/StylesNew/images/empty.png" data-src-base='https://s.wine.style/images_gen/' data-src='<480:328/32833/0_0_tiny.jpg?h=100, >479:328/32833/0_0_cat.jpg?h=300'  class="stoploadimage" style="opacity: 0" />
+<noscript><img  alt="Legendario Elixir de Cuba" src='https://s.wine.style/images_gen/328/32833/0_0_cat.jpg' /></noscript>
+		<span class="text">"Legendario" Elixir de Cuba</span>
+		<span class="price">2 995 руб.</span>
+	</a>
+</div>
+</div>
+	</div>
+	<!--[if lt IE 9]>
+<script type="text/javascript">
+	var IElt9 = 1;
+</script>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<link rel="stylesheet" type="text/css" href="https://s.wine.style/templates/default/StylesNew/css/style-ie.css?version=03.10.2016_14:40"/>
+<![endif]-->
+
+<script type="text/javascript">
+	
+	var ConversionSortBy = '';
+	var DefaultSort = 'popularityASC';
+	var group_tab_id = '';
+	var CountryId = 6;
+	var CountryParentId = 1;
+	var CookieDomain = '.winestyle.ru';
+	var getNavURL = "";
+	var GA_MEASUREMENT_ID = "0";
+	var LangNode = "";
+		  
+	 var isAdmin = false; 
+	/**
+	 * Загружает картинки нужного размера попавшие в область видимости или не попавшие (при условии, что грузятся безусловно)
+	 * Устанавливает размеры элементам img для резервирования места для будущих картинок
+	 *
+	 * @param object - DOM элемент, в котором будут искаться img. Если не указан - BODY
+	 * @param bool setSize - устанавливать или нет размеры картинок. 
+	 *		Если 0 - только вешает обработчик (в таком случае не резервируется место под картинку). 
+	 *		Если 1 - плюс устанавливает размеры.
+	 * @param bool skipload - пропустить загрузку картинок (может пригодиться, когда нужно только быстро проставить размеры)
+	 *
+	 * Классы у картинки:
+	 * forceloadimage - загрузка картинки сразу после загрузки независимо от координат на странице
+	 * stoploadimage - не загружать картинку независимо от координат и forceloadimage
+	 * resetheight - сбросить высоту после загрузки
+	 * skip-anime - показывать картинку без анимации 
+	 */
+	function makeImagesResponsive(context, setSize, skipload){
+		if(typeof context == 'undefined') context = document.body;
+		if(typeof setSize == 'undefined') setSize = 0;
+		if(typeof skipload == 'undefined') skipload = 0;
+		if(typeof mir_exe != 'undefined' && mir_exe && skipload == 0 && setSize == 0) {
+			if(typeof mir_rep != 'undefined') clearTimeout(mir_rep);
+			mir_rep = setTimeout(function(){makeImagesResponsive(context, setSize, skipload)},100);
+			return;
+		}
+		mir_exe = 1;
+		
+		//увеличение видимой области (px) для подгрузки фоток
+		var height_offset = 300;
+
+		////////GET ALL IMAGES//////
+		var viewport = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth,
+			images = context.getElementsByTagName("img");
+
+		if(images.length===0) {
+			mir_exe = 0;
+			return;
+		}
+
+		////////HASATTR FUNCTION////////
+		var hasAttr;
+		if(!images[0].hasAttribute){ //IE <=7 fix
+
+			hasAttr = function(el, attrName){ //IE does not support Object.Prototype
+				return el.getAttribute(attrName) !== null;
+			};
+
+		} else {
+
+			hasAttr = function(el, attrName){
+				return el.hasAttribute(attrName);
+			};
+
+		}
+
+		////////CHECK IF DISPLAY IS RETINA////////
+		var retina = window.devicePixelRatio ? window.devicePixelRatio >= 1.2 ? 1 : 0 : 0;
+
+		////////LOOP ALL IMAGES////////
+		var hw = document.documentElement.clientHeight + height_offset;
+		var sT = document.body.scrollTop;
+		var img_loaded_counter = 0;
+		for(var i=0; i < images.length; i++){
+
+			var image = images[i];
+
+			//set attr names
+			var srcAttr = ( retina && hasAttr(image, 'data-src2x') ) ? 'data-src2x' : 'data-src';
+			var baseAttr = ( retina && hasAttr(image, 'data-src-base2x') ) ? 'data-src-base2x' : 'data-src-base';
+
+			//check image attributes
+			if( !hasAttr(image, srcAttr) ){
+				continue;
+			}
+
+			if(skipload){
+				var dontload = 1;
+			} 
+			// обработать картинки только в области видимости
+			else {
+				var dontload = 0; 
+				var offsetBlock = image.getBoundingClientRect().top + document.body.scrollTop;
+			
+				// Игнорирование загрузки картинки с классом stoploadimage
+				var stopload = image.className.indexOf('stoploadimage') != -1 ? true : false;
+				if(stopload) {
+					dontload = 1;
+				} 
+				// Если картинка не грузится принудительно (в таком случае она грузится независимо от координат) и попадает в видимую область сайта
+				else if(image.className.indexOf('forceloadimage') == -1 && !(sT <= offsetBlock && offsetBlock <= (hw + sT))){
+
+					var height = parseInt(image.style.height);
+					if(height != null){
+						if(!(sT <= (offsetBlock+parseInt(height)) && (offsetBlock+parseInt(height)) <= (hw + sT))){
+							dontload = 1;
+							if(setSize == 0) continue;
+						}
+
+					} else {			
+						if(setSize == 0) continue;
+						else dontload = 1;
+					}
+				}
+			}
+
+			var basePath = hasAttr(image, baseAttr) ? image.getAttribute(baseAttr) : '';
+
+			//get attributes
+			var queries = image.getAttribute(srcAttr);
+
+			//split defined query list
+			var queries_array = queries.split(',');
+
+			//loop queries
+			for(var j = 0; j < queries_array.length; j++){
+
+				//split each individual query
+				var query = queries_array[j].replace(':','||').split('||');
+
+				//get condition and response
+				var condition = query[0];
+				var response = query[1];
+
+
+				//set empty variables
+				var conditionpx;
+				var bool;
+
+
+				//check if condition is below
+				if(condition.indexOf('<') !== -1){
+
+					conditionpx = condition.split('<');
+					if(queries_array[(j -1)]){
+						var prev_query = queries_array[(j - 1)].split(/:(.+)/);
+						var prev_cond = prev_query[0].split('<');
+						bool =  (viewport <= conditionpx[1] && viewport > prev_cond[1]);
+					} else {
+						bool =  (viewport <= conditionpx[1]);
+					}
+				} else {
+					conditionpx = condition.split('>');
+					if(queries_array[(j +1)]){
+						var next_query = queries_array[(j +1)].split(/:(.+)/);
+						var next_cond = next_query[0].split('>');
+						bool = (viewport >= conditionpx[1] && viewport < next_cond[1]);
+					} else {
+						bool = (viewport >= conditionpx[1]);
+					}
+
+				}
+
+				//check if document.width meets condition
+				if(bool){
+					var isCrossDomain = response.indexOf('//') !== -1 ? 1 : 0;
+					var new_source;
+					if(isCrossDomain === 1){
+						new_source = response;
+					} else {
+						new_source = basePath + response;
+					}
+
+					// Всегда устанавливаем размеры, но загружаем когда попадает в зону видимости: dontload = 0
+					var matches = new_source.match(/h=([0-9]+)/);
+					new_source = new_source.replace(/\?h=[0-9]+/,'');
+
+					// Для залогиненых. Сброс кэша GET параметром.
+					// Не дописываем GET для логотипа, так как на странице логотип используется дважды - соответственно, загрузка изображения будет выполнена два раза. 						
+/*					if (response != 'logo.png' && typeof isLogedIn != 'undefined' && isLogedIn) {
+						var random = 0;
+						if (!image.getAttribute('data-random')) {	
+							random = parseInt(Math.random() * 1000);
+							image.setAttribute('data-random', random);
+						} else random = image.getAttribute('data-random');
+						new_source += '?r=' + random;
+					}*/
+
+					if(decodeURIComponent(image.src.replace(/(http:|https:)/,'')) !== new_source.replace(/(http:|https:)/,'')){
+						// Предзагрузка картинок для Google Page Speed
+						if(image.className.indexOf('preload') != -1){
+							image_preloader(new_source);
+						}
+						//change img src to basePath + response
+						if(setSize == 1){
+							if(matches != null){
+								image.style.height = matches[1] + 'px';
+								image.src = 'https://s.wine.style/templates/default/StylesNew/images/empty.png';
+								
+								// После определения размера еще раз проверим попадает ли изображение (на этот раз его нижняя граница)
+								if(dontload == 1 && !stopload){
+									offsetBlock += parseInt(matches[1]);
+									if(sT <= offsetBlock && offsetBlock <= (hw + sT)) dontload = 0;					
+								}
+							}
+						}
+						if(dontload == 0){
+
+							(function(image,new_source){
+								
+								//не показываем анимацию
+								image.src = new_source;
+								image.onload = function(){
+									if (this.className.indexOf('resetheight') != -1) this.style.height = 'auto';
+
+									image.style.opacity = 1;
+									this.onload = function(){};
+								}	
+
+							})(image, new_source);
+
+						}
+					}
+					//break loop
+					break;
+				}
+			}
+		}
+		setTimeout(function(){mir_exe = 0},100);
+	}
+
+	makeImagesResponsive(document.body, 1, 1);
+
+	cssLoader();
+
+</script>
+
+
+
+
+
+
+
+<script type='text/javascript'></script>
+
+					<!-- Start Tracking Code for googleanalytics -->
+					<script>
+
+						// Замена ga гугл аналитики. Накапливает вызовы пока analytics.js скрипт не загружен
+						function ga(){
+							if (typeof ga_array == 'undefined') ga_array = []; 
+							var args = [];
+							for (var i = 0; i < arguments.length; i++) args[i] = arguments[i];
+							ga_array.push(args);
+						}
+						
+						ga('create', 'UA-145254192-1', 'auto');
+						ga('set','dimension1','External');
+						ga('set','dimension2','0');
+						ga('set', 'dimension7', 'version_1');
+						
+						
+						ga('set', 'dimension4', 'breadcrumbs_link_all');
+						
+						
+						
+						ga('require', 'linkid', 'linkid.js');
+						ga('require', 'displayfeatures');
+						ga('send', 'pageview');
+	                    
+						ga('require', 'ecommerce', 'ecommerce.js'); 
+						ga('require', 'ec');
+						 
+						
+
+						setTimeout(function() {
+
+							(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+							(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+							m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+							a.onload = function() {
+								if (typeof ga_array != 'undefined' && ga_array.length) {
+									var length = ga_array.length;
+									for (var i = 0; i < length; i++) {
+										ga.apply(this, ga_array[i]);
+									}
+								}
+							}
+
+							})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+						}, 2500);
+
+						</script>
+					<!-- End Tracking Code for googleanalytics --><!-- Yandex.Metrika counter -->
+					<noscript><div><img src="https://mc.yandex.ru/watch/58295641" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+					<!-- /Yandex.Metrika counter -->
+<script type='text/javascript'>
+													var clicky_site_ids = clicky_site_ids || [];
+													clicky_site_ids.push(101203725);
+
+													setTimeout(function() {
+													  var s = document.createElement('script');
+													  s.type = 'text/javascript';
+													  s.async = true;
+													  s.src = 'https://static.getclicky.com/js';
+													  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+													}, 2500);
+
+													</script>
+													<noscript><p><img alt='Clicky' width='1' height='1' src='https://in.getclicky.com/101203725ns.gif' /></p></noscript>
+</body>
+</html>
